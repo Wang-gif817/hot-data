@@ -1,307 +1,307 @@
 {
   "runs": [
     {
-      "crawl_time": "04-49",
+      "crawl_time": "15-47",
       "items": [
         {
           "platform_id": "baidu",
           "platform_name": "百度热搜",
-          "title": "中俄美元首同框",
-          "url": "https://www.baidu.com/s?wd=%E4%B8%AD%E4%BF%84%E7%BE%8E%E5%85%83%E9%A6%96%E5%90%8C%E6%A1%86",
+          "title": "习近平会见美国总统特朗普",
+          "url": "https://www.baidu.com/s?wd=%E4%B9%A0%E8%BF%91%E5%B9%B3%E4%BC%9A%E8%A7%81%E7%BE%8E%E5%9B%BD%E6%80%BB%E7%BB%9F%E7%89%B9%E6%9C%97%E6%99%AE",
           "rank": 1
         },
         {
           "platform_id": "baidu",
           "platform_name": "百度热搜",
-          "title": "习近平彭丽媛欢迎与会嘉宾并集体合影",
-          "url": "https://www.baidu.com/s?wd=%E4%B9%A0%E8%BF%91%E5%B9%B3%E5%BD%AD%E4%B8%BD%E5%AA%9B%E6%AC%A2%E8%BF%8E%E4%B8%8E%E4%BC%9A%E5%98%89%E5%AE%BE%E5%B9%B6%E9%9B%86%E4%BD%93%E5%90%88%E5%BD%B1",
+          "title": "APEC领导人互相整理围巾",
+          "url": "https://www.baidu.com/s?wd=APEC%E9%A2%86%E5%AF%BC%E4%BA%BA%E4%BA%92%E7%9B%B8%E6%95%B4%E7%90%86%E5%9B%B4%E5%B7%BE",
           "rank": 2
         },
         {
           "platform_id": "baidu",
           "platform_name": "百度热搜",
-          "title": "APEC工商领导人峰会什么话题最热",
-          "url": "https://www.baidu.com/s?wd=APEC%E5%B7%A5%E5%95%86%E9%A2%86%E5%AF%BC%E4%BA%BA%E5%B3%B0%E4%BC%9A%E4%BB%80%E4%B9%88%E8%AF%9D%E9%A2%98%E6%9C%80%E7%83%AD",
+          "title": "APEC时间 外媒记者点赞深圳",
+          "url": "https://www.baidu.com/s?wd=APEC%E6%97%B6%E9%97%B4+%E5%A4%96%E5%AA%92%E8%AE%B0%E8%80%85%E7%82%B9%E8%B5%9E%E6%B7%B1%E5%9C%B3",
           "rank": 3
         },
         {
           "platform_id": "baidu",
           "platform_name": "百度热搜",
-          "title": "普京和特朗普互动握手",
-          "url": "https://www.baidu.com/s?wd=%E6%99%AE%E4%BA%AC%E5%92%8C%E7%89%B9%E6%9C%97%E6%99%AE%E4%BA%92%E5%8A%A8%E6%8F%A1%E6%89%8B",
+          "title": "马斯克：我是中国的超级粉丝",
+          "url": "https://www.baidu.com/s?wd=%E9%A9%AC%E6%96%AF%E5%85%8B%EF%BC%9A%E6%88%91%E6%98%AF%E4%B8%AD%E5%9B%BD%E7%9A%84%E8%B6%85%E7%BA%A7%E7%B2%89%E4%B8%9D",
           "rank": 4
         },
         {
           "platform_id": "baidu",
           "platform_name": "百度热搜",
-          "title": "中国军人在空军一号轰鸣声前岿然不动",
-          "url": "https://www.baidu.com/s?wd=%E4%B8%AD%E5%9B%BD%E5%86%9B%E4%BA%BA%E5%9C%A8%E7%A9%BA%E5%86%9B%E4%B8%80%E5%8F%B7%E8%BD%B0%E9%B8%A3%E5%A3%B0%E5%89%8D%E5%B2%BF%E7%84%B6%E4%B8%8D%E5%8A%A8",
+          "title": "深圳市民在街头偶遇各国政要",
+          "url": "https://www.baidu.com/s?wd=%E6%B7%B1%E5%9C%B3%E5%B8%82%E6%B0%91%E5%9C%A8%E8%A1%97%E5%A4%B4%E5%81%B6%E9%81%87%E5%90%84%E5%9B%BD%E6%94%BF%E8%A6%81",
           "rank": 5
         },
         {
           "platform_id": "baidu",
           "platform_name": "百度热搜",
-          "title": "普京：难怪您会选这里作为APEC举办地",
-          "url": "https://www.baidu.com/s?wd=%E6%99%AE%E4%BA%AC%EF%BC%9A%E9%9A%BE%E6%80%AA%E6%82%A8%E4%BC%9A%E9%80%89%E8%BF%99%E9%87%8C%E4%BD%9C%E4%B8%BAAPEC%E4%B8%BE%E5%8A%9E%E5%9C%B0",
+          "title": "特朗普见普京时开玩笑问“他是谁”",
+          "url": "https://www.baidu.com/s?wd=%E7%89%B9%E6%9C%97%E6%99%AE%E8%A7%81%E6%99%AE%E4%BA%AC%E6%97%B6%E5%BC%80%E7%8E%A9%E7%AC%91%E9%97%AE%E2%80%9C%E4%BB%96%E6%98%AF%E8%B0%81%E2%80%9D",
           "rank": 6
         },
         {
           "platform_id": "baidu",
           "platform_name": "百度热搜",
-          "title": "大件旧家具“扔比买难”？九部门出手",
-          "url": "https://www.baidu.com/s?wd=%E5%A4%A7%E4%BB%B6%E6%97%A7%E5%AE%B6%E5%85%B7%E2%80%9C%E6%89%94%E6%AF%94%E4%B9%B0%E9%9A%BE%E2%80%9D%EF%BC%9F%E4%B9%9D%E9%83%A8%E9%97%A8%E5%87%BA%E6%89%8B",
+          "title": "“多让孩子啃苹果能省下一个金镯子”",
+          "url": "https://www.baidu.com/s?wd=%E2%80%9C%E5%A4%9A%E8%AE%A9%E5%AD%A9%E5%AD%90%E5%95%83%E8%8B%B9%E6%9E%9C%E8%83%BD%E7%9C%81%E4%B8%8B%E4%B8%80%E4%B8%AA%E9%87%91%E9%95%AF%E5%AD%90%E2%80%9D",
           "rank": 7
         },
         {
           "platform_id": "baidu",
           "platform_name": "百度热搜",
-          "title": "国台办回应“两岸2032年统一货币”",
-          "url": "https://www.baidu.com/s?wd=%E5%9B%BD%E5%8F%B0%E5%8A%9E%E5%9B%9E%E5%BA%94%E2%80%9C%E4%B8%A4%E5%B2%B82032%E5%B9%B4%E7%BB%9F%E4%B8%80%E8%B4%A7%E5%B8%81%E2%80%9D",
+          "title": "APEC围巾图案取自“中国年”会标",
+          "url": "https://www.baidu.com/s?wd=APEC%E5%9B%B4%E5%B7%BE%E5%9B%BE%E6%A1%88%E5%8F%96%E8%87%AA%E2%80%9C%E4%B8%AD%E5%9B%BD%E5%B9%B4%E2%80%9D%E4%BC%9A%E6%A0%87",
           "rank": 8
         },
         {
           "platform_id": "baidu",
           "platform_name": "百度热搜",
-          "title": "为何都说“APEC需要中国”",
-          "url": "https://www.baidu.com/s?wd=%E4%B8%BA%E4%BD%95%E9%83%BD%E8%AF%B4%E2%80%9CAPEC%E9%9C%80%E8%A6%81%E4%B8%AD%E5%9B%BD%E2%80%9D",
+          "title": "从一枚车厘子读懂亚太合作的甜头",
+          "url": "https://www.baidu.com/s?wd=%E4%BB%8E%E4%B8%80%E6%9E%9A%E8%BD%A6%E5%8E%98%E5%AD%90%E8%AF%BB%E6%87%82%E4%BA%9A%E5%A4%AA%E5%90%88%E4%BD%9C%E7%9A%84%E7%94%9C%E5%A4%B4",
           "rank": 9
         },
         {
           "platform_id": "baidu",
           "platform_name": "百度热搜",
-          "title": "茅台告别抢购 黄牛的好日子到头了",
-          "url": "https://www.baidu.com/s?wd=%E8%8C%85%E5%8F%B0%E5%91%8A%E5%88%AB%E6%8A%A2%E8%B4%AD+%E9%BB%84%E7%89%9B%E7%9A%84%E5%A5%BD%E6%97%A5%E5%AD%90%E5%88%B0%E5%A4%B4%E4%BA%86",
+          "title": "二手房价格连涨8个月",
+          "url": "https://www.baidu.com/s?wd=%E4%BA%8C%E6%89%8B%E6%88%BF%E4%BB%B7%E6%A0%BC%E8%BF%9E%E6%B6%A88%E4%B8%AA%E6%9C%88",
           "rank": 10
         },
         {
           "platform_id": "baidu",
           "platform_name": "百度热搜",
-          "title": "“养老保险缴15年就能退休”系谣言",
-          "url": "https://www.baidu.com/s?wd=%E2%80%9C%E5%85%BB%E8%80%81%E4%BF%9D%E9%99%A9%E7%BC%B415%E5%B9%B4%E5%B0%B1%E8%83%BD%E9%80%80%E4%BC%91%E2%80%9D%E7%B3%BB%E8%B0%A3%E8%A8%80",
+          "title": "摘掉小番茄“甜=长胖”标签",
+          "url": "https://www.baidu.com/s?wd=%E6%91%98%E6%8E%89%E5%B0%8F%E7%95%AA%E8%8C%84%E2%80%9C%E7%94%9C%3D%E9%95%BF%E8%83%96%E2%80%9D%E6%A0%87%E7%AD%BE",
           "rank": 11
         },
         {
           "platform_id": "baidu",
           "platform_name": "百度热搜",
-          "title": "特朗普车内未拉窗帘沉浸式欣赏深圳",
-          "url": "https://www.baidu.com/s?wd=%E7%89%B9%E6%9C%97%E6%99%AE%E8%BD%A6%E5%86%85%E6%9C%AA%E6%8B%89%E7%AA%97%E5%B8%98%E6%B2%89%E6%B5%B8%E5%BC%8F%E6%AC%A3%E8%B5%8F%E6%B7%B1%E5%9C%B3",
+          "title": "马斯克小儿子玩具都是中国制造",
+          "url": "https://www.baidu.com/s?wd=%E9%A9%AC%E6%96%AF%E5%85%8B%E5%B0%8F%E5%84%BF%E5%AD%90%E7%8E%A9%E5%85%B7%E9%83%BD%E6%98%AF%E4%B8%AD%E5%9B%BD%E5%88%B6%E9%80%A0",
           "rank": 12
         },
         {
           "platform_id": "baidu",
           "platform_name": "百度热搜",
-          "title": "深圳市民路边热情围观特朗普座驾",
-          "url": "https://www.baidu.com/s?wd=%E6%B7%B1%E5%9C%B3%E5%B8%82%E6%B0%91%E8%B7%AF%E8%BE%B9%E7%83%AD%E6%83%85%E5%9B%B4%E8%A7%82%E7%89%B9%E6%9C%97%E6%99%AE%E5%BA%A7%E9%A9%BE",
+          "title": "参加中美元首会晤的美方代表都有谁",
+          "url": "https://www.baidu.com/s?wd=%E5%8F%82%E5%8A%A0%E4%B8%AD%E7%BE%8E%E5%85%83%E9%A6%96%E4%BC%9A%E6%99%A4%E7%9A%84%E7%BE%8E%E6%96%B9%E4%BB%A3%E8%A1%A8%E9%83%BD%E6%9C%89%E8%B0%81",
           "rank": 13
         },
         {
           "platform_id": "baidu",
           "platform_name": "百度热搜",
-          "title": "别问警察男友要领带夹了",
-          "url": "https://www.baidu.com/s?wd=%E5%88%AB%E9%97%AE%E8%AD%A6%E5%AF%9F%E7%94%B7%E5%8F%8B%E8%A6%81%E9%A2%86%E5%B8%A6%E5%A4%B9%E4%BA%86",
+          "title": "宁德向理想一天发3封要钱邮件",
+          "url": "https://www.baidu.com/s?wd=%E5%AE%81%E5%BE%B7%E5%90%91%E7%90%86%E6%83%B3%E4%B8%80%E5%A4%A9%E5%8F%913%E5%B0%81%E8%A6%81%E9%92%B1%E9%82%AE%E4%BB%B6",
           "rank": 14
         },
         {
           "platform_id": "baidu",
           "platform_name": "百度热搜",
-          "title": "全世界正在严肃进入中国捏捏时代",
-          "url": "https://www.baidu.com/s?wd=%E5%85%A8%E4%B8%96%E7%95%8C%E6%AD%A3%E5%9C%A8%E4%B8%A5%E8%82%83%E8%BF%9B%E5%85%A5%E4%B8%AD%E5%9B%BD%E6%8D%8F%E6%8D%8F%E6%97%B6%E4%BB%A3",
+          "title": "特朗普：期待同习主席、普京总统会晤",
+          "url": "https://www.baidu.com/s?wd=%E7%89%B9%E6%9C%97%E6%99%AE%EF%BC%9A%E6%9C%9F%E5%BE%85%E5%90%8C%E4%B9%A0%E4%B8%BB%E5%B8%AD%E3%80%81%E6%99%AE%E4%BA%AC%E6%80%BB%E7%BB%9F%E4%BC%9A%E6%99%A4",
           "rank": 15
         },
         {
           "platform_id": "baidu",
           "platform_name": "百度热搜",
-          "title": "马斯克现身特朗普车队随行大巴车",
-          "url": "https://www.baidu.com/s?wd=%E9%A9%AC%E6%96%AF%E5%85%8B%E7%8E%B0%E8%BA%AB%E7%89%B9%E6%9C%97%E6%99%AE%E8%BD%A6%E9%98%9F%E9%9A%8F%E8%A1%8C%E5%A4%A7%E5%B7%B4%E8%BD%A6",
+          "title": "一群玩家把电影院看成了“电竞主场”",
+          "url": "https://www.baidu.com/s?wd=%E4%B8%80%E7%BE%A4%E7%8E%A9%E5%AE%B6%E6%8A%8A%E7%94%B5%E5%BD%B1%E9%99%A2%E7%9C%8B%E6%88%90%E4%BA%86%E2%80%9C%E7%94%B5%E7%AB%9E%E4%B8%BB%E5%9C%BA%E2%80%9D",
           "rank": 16
         },
         {
           "platform_id": "baidu",
           "platform_name": "百度热搜",
-          "title": "两高一部：严惩借离婚转移财产",
-          "url": "https://www.baidu.com/s?wd=%E4%B8%A4%E9%AB%98%E4%B8%80%E9%83%A8%EF%BC%9A%E4%B8%A5%E6%83%A9%E5%80%9F%E7%A6%BB%E5%A9%9A%E8%BD%AC%E7%A7%BB%E8%B4%A2%E4%BA%A7",
+          "title": "中俄美元首座驾首次同框",
+          "url": "https://www.baidu.com/s?wd=%E4%B8%AD%E4%BF%84%E7%BE%8E%E5%85%83%E9%A6%96%E5%BA%A7%E9%A9%BE%E9%A6%96%E6%AC%A1%E5%90%8C%E6%A1%86",
           "rank": 17
         },
         {
           "platform_id": "baidu",
           "platform_name": "百度热搜",
-          "title": "APEC欢迎宴会高清大图",
-          "url": "https://www.baidu.com/s?wd=APEC%E6%AC%A2%E8%BF%8E%E5%AE%B4%E4%BC%9A%E9%AB%98%E6%B8%85%E5%A4%A7%E5%9B%BE",
+          "title": "北大时期张泉灵美成女儿国国王了",
+          "url": "https://www.baidu.com/s?wd=%E5%8C%97%E5%A4%A7%E6%97%B6%E6%9C%9F%E5%BC%A0%E6%B3%89%E7%81%B5%E7%BE%8E%E6%88%90%E5%A5%B3%E5%84%BF%E5%9B%BD%E5%9B%BD%E7%8E%8B%E4%BA%86",
           "rank": 18
         },
         {
           "platform_id": "baidu",
           "platform_name": "百度热搜",
-          "title": "孙正义后悔当年没投Anthropic",
-          "url": "https://www.baidu.com/s?wd=%E5%AD%99%E6%AD%A3%E4%B9%89%E5%90%8E%E6%82%94%E5%BD%93%E5%B9%B4%E6%B2%A1%E6%8A%95Anthropic",
+          "title": "姥爷网购3万斤薯条来当作猪饲料",
+          "url": "https://www.baidu.com/s?wd=%E5%A7%A5%E7%88%B7%E7%BD%91%E8%B4%AD3%E4%B8%87%E6%96%A4%E8%96%AF%E6%9D%A1%E6%9D%A5%E5%BD%93%E4%BD%9C%E7%8C%AA%E9%A5%B2%E6%96%99",
           "rank": 19
         },
         {
           "platform_id": "baidu",
           "platform_name": "百度热搜",
-          "title": "现场见证深圳APEC的首张“全家福”",
-          "url": "https://www.baidu.com/s?wd=%E7%8E%B0%E5%9C%BA%E8%A7%81%E8%AF%81%E6%B7%B1%E5%9C%B3APEC%E7%9A%84%E9%A6%96%E5%BC%A0%E2%80%9C%E5%85%A8%E5%AE%B6%E7%A6%8F%E2%80%9D",
+          "title": "李家超笑称“我是东道主啊”",
+          "url": "https://www.baidu.com/s?wd=%E6%9D%8E%E5%AE%B6%E8%B6%85%E7%AC%91%E7%A7%B0%E2%80%9C%E6%88%91%E6%98%AF%E4%B8%9C%E9%81%93%E4%B8%BB%E5%95%8A%E2%80%9D",
           "rank": 20
         },
         {
           "platform_id": "baidu",
           "platform_name": "百度热搜",
-          "title": "牛肉价格要涨到2028年吗",
-          "url": "https://www.baidu.com/s?wd=%E7%89%9B%E8%82%89%E4%BB%B7%E6%A0%BC%E8%A6%81%E6%B6%A8%E5%88%B02028%E5%B9%B4%E5%90%97",
+          "title": "全网响应吴克群",
+          "url": "https://www.baidu.com/s?wd=%E5%85%A8%E7%BD%91%E5%93%8D%E5%BA%94%E5%90%B4%E5%85%8B%E7%BE%A4",
           "rank": 21
         },
         {
           "platform_id": "baidu",
           "platform_name": "百度热搜",
-          "title": "微信比QQ多9亿月活",
-          "url": "https://www.baidu.com/s?wd=%E5%BE%AE%E4%BF%A1%E6%AF%94QQ%E5%A4%9A9%E4%BA%BF%E6%9C%88%E6%B4%BB",
+          "title": "中国人对老家的执念",
+          "url": "https://www.baidu.com/s?wd=%E4%B8%AD%E5%9B%BD%E4%BA%BA%E5%AF%B9%E8%80%81%E5%AE%B6%E7%9A%84%E6%89%A7%E5%BF%B5",
           "rank": 22
         },
         {
           "platform_id": "baidu",
           "platform_name": "百度热搜",
-          "title": "特朗普驻足聆听乐团演奏点头鼓掌",
-          "url": "https://www.baidu.com/s?wd=%E7%89%B9%E6%9C%97%E6%99%AE%E9%A9%BB%E8%B6%B3%E8%81%86%E5%90%AC%E4%B9%90%E5%9B%A2%E6%BC%94%E5%A5%8F%E7%82%B9%E5%A4%B4%E9%BC%93%E6%8E%8C",
+          "title": "芦玉菲：退役后才发现原单位没交社保",
+          "url": "https://www.baidu.com/s?wd=%E8%8A%A6%E7%8E%89%E8%8F%B2%EF%BC%9A%E9%80%80%E5%BD%B9%E5%90%8E%E6%89%8D%E5%8F%91%E7%8E%B0%E5%8E%9F%E5%8D%95%E4%BD%8D%E6%B2%A1%E4%BA%A4%E7%A4%BE%E4%BF%9D",
           "rank": 23
         },
         {
           "platform_id": "baidu",
           "platform_name": "百度热搜",
-          "title": "GTA6",
-          "url": "https://www.baidu.com/s?wd=GTA6",
+          "title": "《GTA 6》首发体验",
+          "url": "https://www.baidu.com/s?wd=%E3%80%8AGTA+6%E3%80%8B%E9%A6%96%E5%8F%91%E4%BD%93%E9%AA%8C",
           "rank": 24
         },
         {
           "platform_id": "baidu",
           "platform_name": "百度热搜",
-          "title": "经常朝左边睡觉对心脏的影响",
-          "url": "https://www.baidu.com/s?wd=%E7%BB%8F%E5%B8%B8%E6%9C%9D%E5%B7%A6%E8%BE%B9%E7%9D%A1%E8%A7%89%E5%AF%B9%E5%BF%83%E8%84%8F%E7%9A%84%E5%BD%B1%E5%93%8D",
+          "title": "澳大利亚总理现身深圳超市",
+          "url": "https://www.baidu.com/s?wd=%E6%BE%B3%E5%A4%A7%E5%88%A9%E4%BA%9A%E6%80%BB%E7%90%86%E7%8E%B0%E8%BA%AB%E6%B7%B1%E5%9C%B3%E8%B6%85%E5%B8%82",
           "rank": 25
         },
         {
           "platform_id": "baidu",
           "platform_name": "百度热搜",
-          "title": "河南一红绿灯提示牌下出现招生广告",
-          "url": "https://www.baidu.com/s?wd=%E6%B2%B3%E5%8D%97%E4%B8%80%E7%BA%A2%E7%BB%BF%E7%81%AF%E6%8F%90%E7%A4%BA%E7%89%8C%E4%B8%8B%E5%87%BA%E7%8E%B0%E6%8B%9B%E7%94%9F%E5%B9%BF%E5%91%8A",
+          "title": "普京笔不离手记重点 特朗普专注聆听",
+          "url": "https://www.baidu.com/s?wd=%E6%99%AE%E4%BA%AC%E7%AC%94%E4%B8%8D%E7%A6%BB%E6%89%8B%E8%AE%B0%E9%87%8D%E7%82%B9+%E7%89%B9%E6%9C%97%E6%99%AE%E4%B8%93%E6%B3%A8%E8%81%86%E5%90%AC",
           "rank": 26
         },
         {
           "platform_id": "baidu",
           "platform_name": "百度热搜",
-          "title": "超市服装区挤满了年轻人",
-          "url": "https://www.baidu.com/s?wd=%E8%B6%85%E5%B8%82%E6%9C%8D%E8%A3%85%E5%8C%BA%E6%8C%A4%E6%BB%A1%E4%BA%86%E5%B9%B4%E8%BD%BB%E4%BA%BA",
+          "title": "中国男足世界排名上升一位",
+          "url": "https://www.baidu.com/s?wd=%E4%B8%AD%E5%9B%BD%E7%94%B7%E8%B6%B3%E4%B8%96%E7%95%8C%E6%8E%92%E5%90%8D%E4%B8%8A%E5%8D%87%E4%B8%80%E4%BD%8D",
           "rank": 27
         },
         {
           "platform_id": "baidu",
           "platform_name": "百度热搜",
-          "title": "男子戴泳帽泳镜吃海底捞",
-          "url": "https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%90%E6%88%B4%E6%B3%B3%E5%B8%BD%E6%B3%B3%E9%95%9C%E5%90%83%E6%B5%B7%E5%BA%95%E6%8D%9E",
+          "title": "粉丝超7000万的“潘姥姥”是谁",
+          "url": "https://www.baidu.com/s?wd=%E7%B2%89%E4%B8%9D%E8%B6%857000%E4%B8%87%E7%9A%84%E2%80%9C%E6%BD%98%E5%A7%A5%E5%A7%A5%E2%80%9D%E6%98%AF%E8%B0%81",
           "rank": 28
         },
         {
           "platform_id": "baidu",
           "platform_name": "百度热搜",
-          "title": "李在明夫妇与华南韩侨共进午餐",
-          "url": "https://www.baidu.com/s?wd=%E6%9D%8E%E5%9C%A8%E6%98%8E%E5%A4%AB%E5%A6%87%E4%B8%8E%E5%8D%8E%E5%8D%97%E9%9F%A9%E4%BE%A8%E5%85%B1%E8%BF%9B%E5%8D%88%E9%A4%90",
+          "title": "为什么人们怀念千禧风穿搭",
+          "url": "https://www.baidu.com/s?wd=%E4%B8%BA%E4%BB%80%E4%B9%88%E4%BA%BA%E4%BB%AC%E6%80%80%E5%BF%B5%E5%8D%83%E7%A6%A7%E9%A3%8E%E7%A9%BF%E6%90%AD",
           "rank": 29
         },
         {
           "platform_id": "baidu",
           "platform_name": "百度热搜",
-          "title": "霍建华回应已经过气了",
-          "url": "https://www.baidu.com/s?wd=%E9%9C%8D%E5%BB%BA%E5%8D%8E%E5%9B%9E%E5%BA%94%E5%B7%B2%E7%BB%8F%E8%BF%87%E6%B0%94%E4%BA%86",
+          "title": "特朗普谈欢迎仪式：我对此心怀感激",
+          "url": "https://www.baidu.com/s?wd=%E7%89%B9%E6%9C%97%E6%99%AE%E8%B0%88%E6%AC%A2%E8%BF%8E%E4%BB%AA%E5%BC%8F%EF%BC%9A%E6%88%91%E5%AF%B9%E6%AD%A4%E5%BF%83%E6%80%80%E6%84%9F%E6%BF%80",
           "rank": 30
         },
         {
           "platform_id": "bilibili-hot-search",
           "platform_name": "哔哩哔哩",
-          "title": "习近平和彭丽媛为来宾举行欢迎宴会",
-          "url": "https://search.bilibili.com/all?keyword=%E4%B9%A0%E8%BF%91%E5%B9%B3%E5%92%8C%E5%BD%AD%E4%B8%BD%E5%AA%9B%E4%B8%BA%E6%9D%A5%E5%AE%BE%E4%B8%BE%E8%A1%8C%E6%AC%A2%E8%BF%8E%E5%AE%B4%E4%BC%9A",
+          "title": "习近平谈建设亚太共同体",
+          "url": "https://search.bilibili.com/all?keyword=%E4%B9%A0%E8%BF%91%E5%B9%B3%E8%B0%88%E5%BB%BA%E8%AE%BE%E4%BA%9A%E5%A4%AA%E5%85%B1%E5%90%8C%E4%BD%93",
           "rank": 1
         },
         {
           "platform_id": "bilibili-hot-search",
           "platform_name": "哔哩哔哩",
-          "title": "习近平迎接美国总统特朗普",
-          "url": "https://search.bilibili.com/all?keyword=%E4%B9%A0%E8%BF%91%E5%B9%B3%E8%BF%8E%E6%8E%A5%E7%BE%8E%E5%9B%BD%E6%80%BB%E7%BB%9F%E7%89%B9%E6%9C%97%E6%99%AE",
+          "title": "APEC领导人宣言",
+          "url": "https://search.bilibili.com/all?keyword=APEC%E9%A2%86%E5%AF%BC%E4%BA%BA%E5%AE%A3%E8%A8%80",
           "rank": 2
         },
         {
           "platform_id": "bilibili-hot-search",
           "platform_name": "哔哩哔哩",
-          "title": "在APEC读懂一湾锦绣通亚太",
-          "url": "https://search.bilibili.com/all?keyword=%E5%9C%A8APEC%E8%AF%BB%E6%87%82%E4%B8%80%E6%B9%BE%E9%94%A6%E7%BB%A3%E9%80%9A%E4%BA%9A%E5%A4%AA",
+          "title": "习近平将主持中俄美元首会晤",
+          "url": "https://search.bilibili.com/all?keyword=%E4%B9%A0%E8%BF%91%E5%B9%B3%E5%B0%86%E4%B8%BB%E6%8C%81%E4%B8%AD%E4%BF%84%E7%BE%8E%E5%85%83%E9%A6%96%E4%BC%9A%E6%99%A4",
           "rank": 3
         },
         {
           "platform_id": "bilibili-hot-search",
           "platform_name": "哔哩哔哩",
-          "title": "美国总统特朗普抵达深圳",
-          "url": "https://search.bilibili.com/all?keyword=%E7%BE%8E%E5%9B%BD%E6%80%BB%E7%BB%9F%E7%89%B9%E6%9C%97%E6%99%AE%E6%8A%B5%E8%BE%BE%E6%B7%B1%E5%9C%B3",
+          "title": "习近平会见美国总统特朗普",
+          "url": "https://search.bilibili.com/all?keyword=%E4%B9%A0%E8%BF%91%E5%B9%B3%E4%BC%9A%E8%A7%81%E7%BE%8E%E5%9B%BD%E6%80%BB%E7%BB%9F%E7%89%B9%E6%9C%97%E6%99%AE",
           "rank": 4
         },
         {
           "platform_id": "bilibili-hot-search",
           "platform_name": "哔哩哔哩",
-          "title": "ZmjjKK离队EDG",
-          "url": "https://search.bilibili.com/all?keyword=zmjjkk%E7%A6%BB%E9%98%9FEDG",
+          "title": "詹姆斯率残阵76人逆转魔术",
+          "url": "https://search.bilibili.com/all?keyword=%E8%A9%B9%E5%A7%86%E6%96%AF%E7%8E%87%E6%AE%8B%E9%98%B576%E4%BA%BA%E9%80%86%E8%BD%AC%E9%AD%94%E6%9C%AF",
           "rank": 5
         },
         {
           "platform_id": "bilibili-hot-search",
           "platform_name": "哔哩哔哩",
-          "title": "花5位数体验世界第2的酒店",
-          "url": "https://search.bilibili.com/all?keyword=%E8%8A%B15%E4%BD%8D%E6%95%B0%E4%BD%93%E9%AA%8C%E4%B8%96%E7%95%8C%E7%AC%AC2%E7%9A%84%E9%85%92%E5%BA%97",
+          "title": "云南人早上6点起来吃烧烤",
+          "url": "https://search.bilibili.com/all?keyword=%E4%BA%91%E5%8D%97%E4%BA%BA%E6%97%A9%E4%B8%8A6%E7%82%B9%E8%B5%B7%E6%9D%A5%E5%90%83%E7%83%A7%E7%83%A4",
           "rank": 6
         },
         {
           "platform_id": "bilibili-hot-search",
           "platform_name": "哔哩哔哩",
-          "title": "DeepSeek宣布搜索抓取免费",
-          "url": "https://search.bilibili.com/all?keyword=DeepSeek%E5%AE%A3%E5%B8%83%E6%90%9C%E7%B4%A2%E6%8A%93%E5%8F%96%E5%85%8D%E8%B4%B9",
+          "title": "从幕后视角看BLG夺冠",
+          "url": "https://search.bilibili.com/all?keyword=%E4%BB%8E%E5%B9%95%E5%90%8E%E8%A7%86%E8%A7%92%E7%9C%8BBLG%E5%A4%BA%E5%86%A0",
           "rank": 7
         },
         {
           "platform_id": "bilibili-hot-search",
           "platform_name": "哔哩哔哩",
-          "title": "假如上学是修仙",
-          "url": "https://search.bilibili.com/all?keyword=%E5%81%87%E5%A6%82%E4%B8%8A%E5%AD%A6%E6%98%AF%E4%BF%AE%E4%BB%99",
+          "title": "马斯克说自己是中国的超级粉丝",
+          "url": "https://search.bilibili.com/all?keyword=%E9%A9%AC%E6%96%AF%E5%85%8B%E8%AF%B4%E8%87%AA%E5%B7%B1%E6%98%AF%E4%B8%AD%E5%9B%BD%E7%9A%84%E8%B6%85%E7%BA%A7%E7%B2%89%E4%B8%9D",
           "rank": 8
         },
         {
           "platform_id": "bilibili-hot-search",
           "platform_name": "哔哩哔哩",
-          "title": "全国代表烤串夯拉排行",
-          "url": "https://search.bilibili.com/all?keyword=%E5%85%A8%E5%9B%BD%E4%BB%A3%E8%A1%A8%E7%83%A4%E4%B8%B2%E5%A4%AF%E6%8B%89%E6%8E%92%E8%A1%8C",
+          "title": "参加中美元首会晤的美方代表有哪些",
+          "url": "https://search.bilibili.com/all?keyword=%E5%8F%82%E5%8A%A0%E4%B8%AD%E7%BE%8E%E5%85%83%E9%A6%96%E4%BC%9A%E6%99%A4%E7%9A%84%E7%BE%8E%E6%96%B9%E4%BB%A3%E8%A1%A8%E6%9C%89%E5%93%AA%E4%BA%9B",
           "rank": 9
         },
         {
           "platform_id": "bilibili-hot-search",
           "platform_name": "哔哩哔哩",
-          "title": "UP主现场见证BLG夺冠",
-          "url": "https://search.bilibili.com/all?keyword=UP%E4%B8%BB%E7%8E%B0%E5%9C%BA%E8%A7%81%E8%AF%81BLG%E5%A4%BA%E5%86%A0",
+          "title": "万事达CEO感受深圳刷卡进站便利",
+          "url": "https://search.bilibili.com/all?keyword=%E4%B8%87%E4%BA%8B%E8%BE%BECEO%E6%84%9F%E5%8F%97%E6%B7%B1%E5%9C%B3%E5%88%B7%E5%8D%A1%E8%BF%9B%E7%AB%99%E4%BE%BF%E5%88%A9",
           "rank": 10
         },
         {
           "platform_id": "bilibili-hot-search",
           "platform_name": "哔哩哔哩",
-          "title": "英雄联盟电影级CG混剪",
-          "url": "https://search.bilibili.com/all?keyword=%E8%8B%B1%E9%9B%84%E8%81%94%E7%9B%9F%E7%94%B5%E5%BD%B1%E7%BA%A7CG%E6%B7%B7%E5%89%AA",
+          "title": "后会友期2你最想看到哪一对",
+          "url": "https://search.bilibili.com/all?keyword=%E5%90%8E%E4%BC%9A%E5%8F%8B%E6%9C%9F2%E4%BD%A0%E6%9C%80%E6%83%B3%E7%9C%8B%E5%88%B0%E5%93%AA%E4%B8%80%E5%AF%B9",
           "rank": 11
         },
         {
           "platform_id": "bilibili-hot-search",
           "platform_name": "哔哩哔哩",
-          "title": "黄金矿工派对狂欢实机演示",
-          "url": "https://search.bilibili.com/all?keyword=%E9%BB%84%E9%87%91%E7%9F%BF%E5%B7%A5%E6%B4%BE%E5%AF%B9%E7%8B%82%E6%AC%A2%E5%AE%9E%E6%9C%BA%E6%BC%94%E7%A4%BA",
+          "title": "詹姆斯最后一攻一传终结比赛",
+          "url": "https://search.bilibili.com/all?keyword=%E8%A9%B9%E5%A7%86%E6%96%AF%E6%9C%80%E5%90%8E%E4%B8%80%E6%94%BB%E4%B8%80%E4%BC%A0%E7%BB%88%E7%BB%93%E6%AF%94%E8%B5%9B",
           "rank": 12
         },
         {
           "platform_id": "bilibili-hot-search",
           "platform_name": "哔哩哔哩",
-          "title": "CS2新音乐盒试听",
-          "url": "https://search.bilibili.com/all?keyword=CS2%E6%96%B0%E9%9F%B3%E4%B9%90%E7%9B%92%E8%AF%95%E5%90%AC",
+          "title": "把Win10装进哔哩哔哩",
+          "url": "https://search.bilibili.com/all?keyword=%E6%8A%8AWin10%E8%A3%85%E8%BF%9B%E5%93%94%E5%93%A9%E5%93%94%E5%93%A9",
           "rank": 13
         },
         {
@@ -314,50 +314,50 @@
         {
           "platform_id": "bilibili-hot-search",
           "platform_name": "哔哩哔哩",
-          "title": "GTA6实机演示",
-          "url": "https://search.bilibili.com/all?keyword=GTA6%E5%AE%9E%E6%9C%BA%E6%BC%94%E7%A4%BA",
+          "title": "CS2新音乐盒试听",
+          "url": "https://search.bilibili.com/all?keyword=CS2%E6%96%B0%E9%9F%B3%E4%B9%90%E7%9B%92%E8%AF%95%E5%90%AC",
           "rank": 15
         },
         {
           "platform_id": "bilibili-hot-search",
           "platform_name": "哔哩哔哩",
-          "title": "3A游戏行业会崩溃吗",
-          "url": "https://search.bilibili.com/all?keyword=3A%E6%B8%B8%E6%88%8F%E8%A1%8C%E4%B8%9A%E4%BC%9A%E5%B4%A9%E6%BA%83%E5%90%97",
+          "title": "闪存价格两周下跌20%",
+          "url": "https://search.bilibili.com/all?keyword=%E9%97%AA%E5%AD%98%E4%BB%B7%E6%A0%BC%E4%B8%A4%E5%91%A8%E4%B8%8B%E8%B7%8C20%25",
           "rank": 16
+        },
+        {
+          "platform_id": "bilibili-hot-search",
+          "platform_name": "哔哩哔哩",
+          "title": "万物皆可交互的2D像素游戏",
+          "url": "https://search.bilibili.com/all?keyword=%E4%B8%87%E7%89%A9%E7%9A%86%E5%8F%AF%E4%BA%A4%E4%BA%92%E7%9A%842D%E5%83%8F%E7%B4%A0%E6%B8%B8%E6%88%8F",
+          "rank": 17
         },
         {
           "platform_id": "bilibili-hot-search",
           "platform_name": "哔哩哔哩",
           "title": "哈利波特与死亡火器",
           "url": "https://search.bilibili.com/all?keyword=%E5%93%88%E5%88%A9%E6%B3%A2%E7%89%B9%E4%B8%8E%E6%AD%BB%E4%BA%A1%E7%81%AB%E5%99%A8",
-          "rank": 17
-        },
-        {
-          "platform_id": "bilibili-hot-search",
-          "platform_name": "哔哩哔哩",
-          "title": "非凡之爱蜘蛛侠真人版",
-          "url": "https://search.bilibili.com/all?keyword=%E9%9D%9E%E5%87%A1%E4%B9%8B%E7%88%B1%E8%9C%98%E8%9B%9B%E4%BE%A0%E7%9C%9F%E4%BA%BA%E7%89%88",
           "rank": 18
         },
         {
           "platform_id": "bilibili-hot-search",
           "platform_name": "哔哩哔哩",
-          "title": "遗忘之海第三赛季前瞻PV",
-          "url": "https://search.bilibili.com/all?keyword=%E9%81%97%E5%BF%98%E4%B9%8B%E6%B5%B7%E7%AC%AC%E4%B8%89%E8%B5%9B%E5%AD%A3%E5%89%8D%E7%9E%BBPV",
+          "title": "PRX官宣2027新阵容",
+          "url": "https://search.bilibili.com/all?keyword=PRX%E5%AE%98%E5%AE%A32027%E6%96%B0%E9%98%B5%E5%AE%B9",
           "rank": 19
         },
         {
           "platform_id": "bilibili-hot-search",
           "platform_name": "哔哩哔哩",
-          "title": "后会友期 谁在按剧本演戏",
-          "url": "https://search.bilibili.com/all?keyword=%E5%90%8E%E4%BC%9A%E5%8F%8B%E6%9C%9F+%E8%B0%81%E5%9C%A8%E6%8C%89%E5%89%A7%E6%9C%AC%E6%BC%94%E6%88%8F",
+          "title": "影视飓风GoPro相机评测",
+          "url": "https://search.bilibili.com/all?keyword=%E5%BD%B1%E8%A7%86%E9%A3%93%E9%A3%8EGoPro%E7%9B%B8%E6%9C%BA%E8%AF%84%E6%B5%8B",
           "rank": 20
         },
         {
           "platform_id": "bilibili-hot-search",
           "platform_name": "哔哩哔哩",
-          "title": "IGN测评GTA6满分",
-          "url": "https://search.bilibili.com/all?keyword=IGN%E6%B5%8B%E8%AF%84GTA6%E6%BB%A1%E5%88%86",
+          "title": "GTA6实况",
+          "url": "https://search.bilibili.com/all?keyword=GTA6",
           "rank": 21
         },
         {
@@ -377,29 +377,29 @@
         {
           "platform_id": "bilibili-hot-search",
           "platform_name": "哔哩哔哩",
-          "title": "精神小伙版非凡之爱",
-          "url": "https://search.bilibili.com/all?keyword=%E7%B2%BE%E7%A5%9E%E5%B0%8F%E4%BC%99%E7%89%88%E9%9D%9E%E5%87%A1%E4%B9%8B%E7%88%B1",
+          "title": "3A游戏行业会崩溃吗",
+          "url": "https://search.bilibili.com/all?keyword=3A%E6%B8%B8%E6%88%8F%E8%A1%8C%E4%B8%9A%E4%BC%9A%E5%B4%A9%E6%BA%83%E5%90%97",
           "rank": 24
         },
         {
           "platform_id": "bilibili-hot-search",
           "platform_name": "哔哩哔哩",
-          "title": "GTA6游民评测10分",
-          "url": "https://search.bilibili.com/all?keyword=GTA6%E6%B8%B8%E6%B0%91%E8%AF%84%E6%B5%8B10%E5%88%86",
+          "title": "最美奋斗者叶连平老师逝世",
+          "url": "https://search.bilibili.com/all?keyword=%E6%9C%80%E7%BE%8E%E5%A5%8B%E6%96%97%E8%80%85%E5%8F%B6%E8%BF%9E%E5%B9%B3%E8%80%81%E5%B8%88%E9%80%9D%E4%B8%96",
           "rank": 25
         },
         {
           "platform_id": "bilibili-hot-search",
           "platform_name": "哔哩哔哩",
-          "title": "BLG如何一穿四LCK夺冠",
-          "url": "https://search.bilibili.com/all?keyword=BLG%E5%A6%82%E4%BD%95%E4%B8%80%E7%A9%BF%E5%9B%9BLCK%E5%A4%BA%E5%86%A0",
+          "title": "黄金矿工派对狂欢实机演示",
+          "url": "https://search.bilibili.com/all?keyword=%E9%BB%84%E9%87%91%E7%9F%BF%E5%B7%A5%E6%B4%BE%E5%AF%B9%E7%8B%82%E6%AC%A2%E5%AE%9E%E6%9C%BA%E6%BC%94%E7%A4%BA",
           "rank": 26
         },
         {
           "platform_id": "bilibili-hot-search",
           "platform_name": "哔哩哔哩",
-          "title": "一镜到底记录特朗普专机抵达深圳",
-          "url": "https://search.bilibili.com/all?keyword=%E4%B8%80%E9%95%9C%E5%88%B0%E5%BA%95%E8%AE%B0%E5%BD%95%E7%89%B9%E6%9C%97%E6%99%AE%E4%B8%93%E6%9C%BA%E6%8A%B5%E8%BE%BE%E6%B7%B1%E5%9C%B3",
+          "title": "GEN不敌BLG后要拆队重组吗",
+          "url": "https://search.bilibili.com/all?keyword=GEN%E4%B8%8D%E6%95%8CBLG%E5%90%8E%E8%A6%81%E6%8B%86%E9%98%9F%E9%87%8D%E7%BB%84%E5%90%97",
           "rank": 27
         },
         {
@@ -412,225 +412,225 @@
         {
           "platform_id": "bilibili-hot-search",
           "platform_name": "哔哩哔哩",
-          "title": "GTA5有何魅力13年卖了2.3亿份",
-          "url": "https://search.bilibili.com/all?keyword=GTA5%E6%9C%89%E4%BD%95%E9%AD%85%E5%8A%9B13%E5%B9%B4%E5%8D%96%E4%BA%862.3%E4%BA%BF%E4%BB%BD",
+          "title": "深圳APEC的首张全家福",
+          "url": "https://search.bilibili.com/all?keyword=%E6%B7%B1%E5%9C%B3APEC%E7%9A%84%E9%A6%96%E5%BC%A0%E5%85%A8%E5%AE%B6%E7%A6%8F",
           "rank": 29
         },
         {
           "platform_id": "bilibili-hot-search",
           "platform_name": "哔哩哔哩",
-          "title": "GEN不敌BLG后要拆队重组吗",
-          "url": "https://search.bilibili.com/all?keyword=GEN%E4%B8%8D%E6%95%8CBLG%E5%90%8E%E8%A6%81%E6%8B%86%E9%98%9F%E9%87%8D%E7%BB%84%E5%90%97",
+          "title": "如何避免太空垃圾变成宇宙暗器",
+          "url": "https://search.bilibili.com/all?keyword=%E5%A6%82%E4%BD%95%E9%81%BF%E5%85%8D%E5%A4%AA%E7%A9%BA%E5%9E%83%E5%9C%BE%E5%8F%98%E6%88%90%E5%AE%87%E5%AE%99%E6%9A%97%E5%99%A8",
           "rank": 30
         },
         {
           "platform_id": "cls-hot",
           "platform_name": "财联社",
-          "title": "中际旭创要开启第二波回购：回购金额20亿元—40亿元",
-          "url": "https://www.cls.cn/detail/2538121",
+          "title": "【早报】深夜巨震，美股芯片股剧烈分化；美联储纪要放鹰，几乎所有官员预计还需加息；字节、微软据悉洽谈扩容云合同",
+          "url": "https://www.cls.cn/detail/2538438",
           "rank": 1
         },
         {
           "platform_id": "cls-hot",
           "platform_name": "财联社",
-          "title": "Anthropic上市前遭质疑，美国五州民主党官员要求提高透明度",
-          "url": "https://www.cls.cn/detail/2538243",
+          "title": "英伟达临时CEO呼吁“向前看” Arm掌门人据悉获猎头接洽",
+          "url": "https://www.cls.cn/detail/2538418",
           "rank": 2
         },
         {
           "platform_id": "cls-hot",
           "platform_name": "财联社",
-          "title": "习近平迎接特朗普高清大图",
-          "url": "https://www.cls.cn/detail/2538172",
+          "title": "美股收盘：英伟达再挫3%创16月新低 标普连跌五天",
+          "url": "https://www.cls.cn/detail/2538424",
           "rank": 3
         },
         {
           "platform_id": "cls-hot",
           "platform_name": "财联社",
-          "title": "金价大跌近2%失守3800美元关口 英伟达财报提振AI板块 | 今夜看点",
-          "url": "https://www.cls.cn/detail/2538272",
+          "title": "需求火爆！Anthropic IPO发行价定在每股83美元 估值剑指1.5万亿",
+          "url": "https://www.cls.cn/detail/2538472",
           "rank": 4
         },
         {
           "platform_id": "cls-hot",
           "platform_name": "财联社",
-          "title": "【每日收评】科创50指数涨超2%，两市成交额创16月以来地量，算力租赁概念全线爆发",
-          "url": "https://www.cls.cn/detail/2537925",
+          "title": "DeepSeek千亿融资落地：31家出资主体现身，产业资本大集结",
+          "url": "https://www.cls.cn/detail/2538723",
           "rank": 5
         },
         {
           "platform_id": "cls-hot",
           "platform_name": "财联社",
-          "title": "美联储沃勒：12月可能需要加息50个基点“给人们一点震撼”",
-          "url": "https://www.cls.cn/detail/2538278",
+          "title": "美联储会议纪要“放鹰” 原油、贵金属价格显著下跌 | 环球市场",
+          "url": "https://www.cls.cn/detail/2538447",
           "rank": 6
         },
         {
           "platform_id": "cls-hot",
           "platform_name": "财联社",
-          "title": "国产半导体已行至何处？财联社VIP携高价值资讯助阵，帮你抢先看清盘面线索",
-          "url": "https://www.cls.cn/detail/2537955",
+          "title": "CoreWeave高管称英伟达“不是一个人” 黄仁勋离任后将继续合作",
+          "url": "https://www.cls.cn/detail/2538338",
           "rank": 7
         },
         {
           "platform_id": "cls-hot",
           "platform_name": "财联社",
-          "title": "【焦点复盘】创业板指探底回升涨0.85%，两市成交年内首次跌破1.4万亿，算力硬件股午后回暖",
-          "url": "https://www.cls.cn/detail/2538014",
+          "title": "比加息更关键的纪要细节：美联储内部拉响金融稳定警报！",
+          "url": "https://www.cls.cn/detail/2538480",
           "rank": 8
         },
         {
           "platform_id": "cls-hot",
           "platform_name": "财联社",
-          "title": "TMT成交占比44%！连续11日超四成，板块内部涨跌分化，融资客动向如何？",
-          "url": "https://www.cls.cn/detail/2538042",
+          "title": "马斯克后悔中期选举花钱“打水漂” 称Anthropic希望扩大算力合作",
+          "url": "https://www.cls.cn/detail/2538665",
           "rank": 9
         },
         {
           "platform_id": "cls-hot",
           "platform_name": "财联社",
-          "title": "一图看懂 | 股价逼近“1元”生死线，A股多家公司拉响退市“警报”",
-          "url": "https://www.cls.cn/detail/2537956",
+          "title": "美联储纪要释放加息信号 戴利强调审慎紧缩的重要性",
+          "url": "https://www.cls.cn/detail/2538408",
           "rank": 10
         },
         {
           "platform_id": "cls-hot",
           "platform_name": "财联社",
-          "title": "习近平会见俄罗斯总统普京",
-          "url": "https://www.cls.cn/detail/2537902",
+          "title": "11月19日投资避雷针：全球金属市场遭遇猛烈抛售 铜等工业金属与贵金属金银集体大跌",
+          "url": "https://www.cls.cn/detail/2538479",
           "rank": 11
         },
         {
           "platform_id": "cls-hot",
           "platform_name": "财联社",
-          "title": "马斯克呛声奥尔特曼：预计SpaceX不会向OpenAI出售任何算力",
-          "url": "https://www.cls.cn/detail/2537847",
+          "title": "飞了49年后 “旅行者1号”探测器抵达距地球一光日里程碑",
+          "url": "https://www.cls.cn/detail/2538356",
           "rank": 12
         },
         {
           "platform_id": "cls-hot",
           "platform_name": "财联社",
-          "title": "民主党筹备数据中心电力改革方案 运营商10年内或需多付350亿美元",
-          "url": "https://www.cls.cn/detail/2538018",
+          "title": "英伟达董事会关闭了黄仁勋回归大门？华尔街大佬痛批：错上加错！",
+          "url": "https://www.cls.cn/detail/2538663",
           "rank": 13
         },
         {
           "platform_id": "douyin",
           "platform_name": "抖音",
-          "title": "APEC欢迎宴会",
-          "url": "https://www.douyin.com/hot/2752977",
+          "title": "中美元首在深圳会晤",
+          "url": "https://www.douyin.com/hot/2754044",
           "rank": 1
         },
         {
           "platform_id": "douyin",
           "platform_name": "抖音",
-          "title": "普京到访深圳高校发表演讲",
-          "url": "https://www.douyin.com/hot/2752490",
+          "title": "中俄美元首会晤即将举行",
+          "url": "https://www.douyin.com/hot/2748056",
           "rank": 2
         },
         {
           "platform_id": "douyin",
           "platform_name": "抖音",
-          "title": "深圳科创吸引世界目光",
-          "url": "https://www.douyin.com/hot/2753110",
+          "title": "为何都说APEC需要中国",
+          "url": "https://www.douyin.com/hot/2754374",
           "rank": 3
         },
         {
           "platform_id": "douyin",
           "platform_name": "抖音",
-          "title": "特朗普出席深圳APEC欢迎宴会",
-          "url": "https://www.douyin.com/hot/2753138",
+          "title": "普京特朗普欢迎晚宴互动握手",
+          "url": "https://www.douyin.com/hot/2753472",
           "rank": 4
         },
         {
           "platform_id": "douyin",
           "platform_name": "抖音",
-          "title": "普京在APEC峰会点赞深圳",
-          "url": "https://www.douyin.com/hot/2752312",
+          "title": "白宫发布特朗普访华视频",
+          "url": "https://www.douyin.com/hot/2753544",
           "rank": 5
         },
         {
           "platform_id": "douyin",
           "platform_name": "抖音",
-          "title": "泰国总理阿努廷飙粤语称很开心",
-          "url": "https://www.douyin.com/hot/2752450",
+          "title": "APEC美食硬控各国来宾",
+          "url": "https://www.douyin.com/hot/2753503",
           "rank": 6
         },
         {
           "platform_id": "douyin",
           "platform_name": "抖音",
-          "title": "一条视频读懂APEC",
-          "url": "https://www.douyin.com/hot/2752043",
+          "title": "美联储沃勒称12月或加息50基点",
+          "url": "https://www.douyin.com/hot/2753321",
           "rank": 7
         },
         {
           "platform_id": "douyin",
           "platform_name": "抖音",
-          "title": "特朗普深圳之行有哪些看点",
-          "url": "https://www.douyin.com/hot/2753186",
+          "title": "俄美专机在深圳机场同框",
+          "url": "https://www.douyin.com/hot/2753113",
           "rank": 8
         },
         {
           "platform_id": "douyin",
           "platform_name": "抖音",
-          "title": "相约APEC一起看到更多可能",
-          "url": "https://www.douyin.com/hot/2753111",
+          "title": "世界看深圳 深圳看未来",
+          "url": "https://www.douyin.com/hot/2754377",
           "rank": 9
         },
         {
           "platform_id": "douyin",
           "platform_name": "抖音",
-          "title": "超级棒棒糖给我神奇的力量",
-          "url": "https://www.douyin.com/hot/2752696",
+          "title": "191式自动步枪首次全记录式开箱",
+          "url": "https://www.douyin.com/hot/2753452",
           "rank": 10
         },
         {
           "platform_id": "douyin",
           "platform_name": "抖音",
-          "title": "现货黄金跌破3800美元关口",
-          "url": "https://www.douyin.com/hot/2751924",
+          "title": "旅行者1号正式抵达1光日",
+          "url": "https://www.douyin.com/hot/2753811",
           "rank": 11
         },
         {
           "platform_id": "douyin",
           "platform_name": "抖音",
-          "title": "粤企组团亮相APEC工商峰会",
-          "url": "https://www.douyin.com/hot/2752036",
+          "title": "APEC带给年轻人哪些新机遇",
+          "url": "https://www.douyin.com/hot/2753313",
           "rank": 12
         },
         {
           "platform_id": "douyin",
           "platform_name": "抖音",
-          "title": "开拓者不敌森林狼",
-          "url": "https://www.douyin.com/hot/2752073",
+          "title": "严苛的训练几乎要了我的命",
+          "url": "https://www.douyin.com/hot/2753757",
           "rank": 13
         },
         {
           "platform_id": "douyin",
           "platform_name": "抖音",
-          "title": "普京抵达深圳",
-          "url": "https://www.douyin.com/hot/2751526",
+          "title": "GTA6新手攻略",
+          "url": "https://www.douyin.com/hot/2753244",
           "rank": 14
         },
         {
           "platform_id": "douyin",
           "platform_name": "抖音",
-          "title": "忘情牛肉面舞蹈大赛",
-          "url": "https://www.douyin.com/hot/2753229",
+          "title": "国台办评罗大佑批判民进党言论",
+          "url": "https://www.douyin.com/hot/2752633",
           "rank": 15
         },
         {
           "platform_id": "douyin",
           "platform_name": "抖音",
-          "title": "GTA6游戏测评",
-          "url": "https://www.douyin.com/hot/2753152",
+          "title": "APEC伙伴相约深圳",
+          "url": "https://www.douyin.com/hot/2750719",
           "rank": 16
         },
         {
           "platform_id": "douyin",
           "platform_name": "抖音",
-          "title": "EDG官宣郑永康ZmjjKK离队",
-          "url": "https://www.douyin.com/hot/2753060",
+          "title": "我国成功发射实践二十四号卫星",
+          "url": "https://www.douyin.com/hot/2753415",
           "rank": 17
         },
         {
@@ -643,176 +643,176 @@
         {
           "platform_id": "douyin",
           "platform_name": "抖音",
-          "title": "摆摊规矩立住了才能不烧心",
-          "url": "https://www.douyin.com/hot/2752836",
-          "rank": 19
-        },
-        {
-          "platform_id": "douyin",
-          "platform_name": "抖音",
           "title": "成毅新剧叛逆儿子",
           "url": "https://www.douyin.com/hot/2753191",
-          "rank": 20
-        },
-        {
-          "platform_id": "douyin",
-          "platform_name": "抖音",
-          "title": "专访BLG冠军成员Xun父亲",
-          "url": "https://www.douyin.com/hot/2753063",
-          "rank": 21
+          "rank": 19
         },
         {
           "platform_id": "douyin",
           "platform_name": "抖音",
           "title": "GTA6正式上线",
           "url": "https://www.douyin.com/hot/2753056",
+          "rank": 20
+        },
+        {
+          "platform_id": "douyin",
+          "platform_name": "抖音",
+          "title": "当甲亢哥第一次玩GTA6",
+          "url": "https://www.douyin.com/hot/2754133",
+          "rank": 21
+        },
+        {
+          "platform_id": "douyin",
+          "platform_name": "抖音",
+          "title": "两京十五日白龙挂画面封神",
+          "url": "https://www.douyin.com/hot/2753899",
           "rank": 22
         },
         {
           "platform_id": "douyin",
           "platform_name": "抖音",
-          "title": "许飞潦草小狗VLOG",
-          "url": "https://www.douyin.com/hot/2752307",
+          "title": "伊能静能不能常驻后会友期",
+          "url": "https://www.douyin.com/hot/2754127",
           "rank": 23
         },
         {
           "platform_id": "douyin",
           "platform_name": "抖音",
-          "title": "马斯克随特朗普车队抵达深圳",
-          "url": "https://www.douyin.com/hot/2753123",
+          "title": "青稚的神图真有了",
+          "url": "https://www.douyin.com/hot/2754120",
           "rank": 24
         },
         {
           "platform_id": "douyin",
           "platform_name": "抖音",
-          "title": "会唱歌的大嘴鱼玩具我是真想要",
-          "url": "https://www.douyin.com/hot/2752269",
+          "title": "萌叔问你真的不嫁给我吗",
+          "url": "https://www.douyin.com/hot/2753876",
           "rank": 25
         },
         {
           "platform_id": "douyin",
           "platform_name": "抖音",
-          "title": "鸣潮新联邦角色首曝",
-          "url": "https://www.douyin.com/hot/2752363",
+          "title": "我的未来存款让我富了三秒",
+          "url": "https://www.douyin.com/hot/2753831",
           "rank": 26
         },
         {
           "platform_id": "douyin",
           "platform_name": "抖音",
-          "title": "两京十五日定档11月20日",
-          "url": "https://www.douyin.com/hot/2753029",
+          "title": "王子璇称无法接受文吉儿背刺",
+          "url": "https://www.douyin.com/hot/2754196",
           "rank": 27
         },
         {
           "platform_id": "douyin",
           "platform_name": "抖音",
-          "title": "慌啥子嘛弹唱版",
-          "url": "https://www.douyin.com/hot/2752248",
+          "title": "累了就出去玩",
+          "url": "https://www.douyin.com/hot/2753500",
           "rank": 28
         },
         {
           "platform_id": "douyin",
           "platform_name": "抖音",
-          "title": "杨超越野草系女主仿妆",
-          "url": "https://www.douyin.com/hot/2752080",
+          "title": "76人121:116战胜魔术",
+          "url": "https://www.douyin.com/hot/2753483",
           "rank": 29
         },
         {
           "platform_id": "douyin",
           "platform_name": "抖音",
-          "title": "我的明星同款脸藏不住了",
-          "url": "https://www.douyin.com/hot/2752068",
+          "title": "蔡国庆走秀时意外摔倒",
+          "url": "https://www.douyin.com/hot/2753275",
           "rank": 30
         },
         {
           "platform_id": "ifeng",
           "platform_name": "凤凰新闻",
-          "title": "“感谢中方特殊安排”，特朗普又带高规格代表团来了",
-          "url": "https://news.ifeng.com/c/8y9zvEpD3u3",
+          "title": "中美元首深圳会晤，参加会见的美方代表有哪些？",
+          "url": "https://news.ifeng.com/c/8yB5llWuB2x",
           "rank": 1
         },
         {
           "platform_id": "ifeng",
           "platform_name": "凤凰新闻",
-          "title": "普京：难怪您会选择这里作为APEC举办地，“俄罗斯也想模仿”",
-          "url": "https://news.ifeng.com/c/8yA04Fd902R",
+          "title": "马斯克：我是中国的超级粉丝",
+          "url": "https://news.ifeng.com/c/8yB7colyv96",
           "rank": 2
         },
         {
           "platform_id": "ifeng",
           "platform_name": "凤凰新闻",
-          "title": "俄美专机在中国机场同框",
-          "url": "https://news.ifeng.com/c/8y9uT64GWpO",
+          "title": "中俄美元首深圳会晤，三方协调如何走向持续稳定？",
+          "url": "https://news.ifeng.com/c/8yAi22mwp47",
           "rank": 3
         },
         {
           "platform_id": "ifeng",
           "platform_name": "凤凰新闻",
-          "title": "追上特朗普专机，马斯克又来了",
-          "url": "https://news.ifeng.com/c/8y9zvEpD3hv",
+          "title": "前往会场的路上，特朗普车内挥手向民众致意",
+          "url": "https://v.ifeng.com/c/8yAsGox9RVm",
           "rank": 4
         },
         {
           "platform_id": "ifeng",
           "platform_name": "凤凰新闻",
-          "title": "“未来的超级明星，不会来自加州，而是来自中国”",
-          "url": "https://news.ifeng.com/c/8y9xw8AcY0D",
+          "title": "休息室内，APEC领导人们互相整理围巾",
+          "url": "https://news.ifeng.com/c/8yB4xhxfA1u",
           "rank": 5
         },
         {
           "platform_id": "ifeng",
           "platform_name": "凤凰新闻",
-          "title": "黄仁勋愿意回归，公司为何“不考虑”？",
-          "url": "https://news.ifeng.com/c/8y9uRLCWvrh",
+          "title": "美媒：黄仁勋被迫出局，最大赢家是他",
+          "url": "https://news.ifeng.com/c/8yAewnct2Hv",
           "rank": 6
         },
         {
           "platform_id": "ifeng",
           "platform_name": "凤凰新闻",
-          "title": "英伟达临时CEO：黄仁勋离职未致客户与员工流失，公司运营稳定",
-          "url": "https://news.ifeng.com/c/8y9lc9Y0v9C",
+          "title": "黄仁勋事件，越来越荒诞了",
+          "url": "https://news.ifeng.com/c/8yAhYxVIgH6",
           "rank": 7
         },
         {
           "platform_id": "ifeng",
           "platform_name": "凤凰新闻",
-          "title": "菲律宾：没和美国签任何贸易文件",
-          "url": "https://news.ifeng.com/c/8y9pLTD1ryJ",
+          "title": "马斯克谈美国中期选举：花了这么多钱，觉得自己“挺傻的”",
+          "url": "https://news.ifeng.com/c/8yAi22mwp6g",
           "rank": 8
         },
         {
           "platform_id": "ifeng",
           "platform_name": "凤凰新闻",
-          "title": "美国将遭遇“90天大停电”？万斯：现在没必要建地堡囤粮食",
-          "url": "https://news.ifeng.com/c/8y9w0ZCQKhx",
+          "title": "伊朗再袭美军基地，战火蔓延至科威特和巴林",
+          "url": "https://news.ifeng.com/c/8yAm0Gnq3VG",
           "rank": 9
         },
         {
           "platform_id": "ifeng",
           "platform_name": "凤凰新闻",
-          "title": "短短6天，美国人开始怀疑：这个国家要崩啦？",
-          "url": "https://news.ifeng.com/c/8y9g4z9DBK5",
+          "title": "危险动向！日本要对“无核三原则”下手",
+          "url": "https://news.ifeng.com/c/8yAi22mwoxw",
           "rank": 10
         },
         {
           "platform_id": "ifeng",
           "platform_name": "凤凰新闻",
-          "title": "鲁比奥：知道美国人都很怕，但美国未遭到系统性攻击",
-          "url": "https://news.ifeng.com/c/8yA3jkZppIx",
+          "title": "停火后首次地面攻击，以色列在加沙地带发起突袭",
+          "url": "https://news.ifeng.com/c/8yAewnct2Bi",
           "rank": 11
         },
         {
           "platform_id": "ifeng",
           "platform_name": "凤凰新闻",
-          "title": "“小镇姑娘”，要当总统？",
-          "url": "https://news.ifeng.com/c/8y9qN6O4lrw",
+          "title": "说好关税减半，印度转头对苏格兰威士忌征税162.5%",
+          "url": "https://news.ifeng.com/c/8yAjcKTqSPk",
           "rank": 12
         },
         {
           "platform_id": "thepaper",
           "platform_name": "澎湃新闻",
-          "title": "详讯丨习近平出席亚太经合组织工商领导人峰会开幕式并发表主旨演讲",
-          "url": "https://www.thepaper.cn/newsDetail_forward_34502089",
+          "title": "详讯丨习近平主持亚太经合组织第三十三次领导人非正式会议并发表重要讲话",
+          "url": "https://www.thepaper.cn/newsDetail_forward_34509808",
           "rank": 1
         },
         {
@@ -832,8 +832,8 @@
         {
           "platform_id": "thepaper",
           "platform_name": "澎湃新闻",
-          "title": "视频丨美国总统特朗普抵达深圳",
-          "url": "https://www.thepaper.cn/newsDetail_forward_34503719",
+          "title": "详讯丨习近平和彭丽媛为出席亚太经合组织第三十三次领导人非正式会议的来宾举行欢迎宴会",
+          "url": "https://www.thepaper.cn/newsDetail_forward_34505125",
           "rank": 4
         },
         {
@@ -846,106 +846,106 @@
         {
           "platform_id": "thepaper",
           "platform_name": "澎湃新闻",
-          "title": "国台办评罗大佑批判民进党当局：当创作《明天会更好》的音乐人痛心疾首，可见问题之严重",
-          "url": "https://www.thepaper.cn/newsDetail_forward_34501842",
+          "title": "APEC欢迎宴会高清大图",
+          "url": "https://www.thepaper.cn/newsDetail_forward_34505423",
           "rank": 6
         },
         {
           "platform_id": "thepaper",
           "platform_name": "澎湃新闻",
-          "title": "媒体：兰州狱警殴打服刑者致死案再审一审宣判，四狱警分别获刑",
-          "url": "https://www.thepaper.cn/newsDetail_forward_34502481",
+          "title": "视频丨美国总统特朗普抵达深圳",
+          "url": "https://www.thepaper.cn/newsDetail_forward_34503719",
           "rank": 7
         },
         {
           "platform_id": "thepaper",
           "platform_name": "澎湃新闻",
-          "title": "中足联就中青赛决赛开出罚单，浙江、申花发声明接受处罚",
-          "url": "https://www.thepaper.cn/newsDetail_forward_34501237",
+          "title": "APEC现场丨普京走进深圳北理莫斯科大学：向师生发表演讲、观看AI机器人",
+          "url": "https://www.thepaper.cn/newsDetail_forward_34503974",
           "rank": 8
+        },
+        {
+          "platform_id": "thepaper",
+          "platform_name": "澎湃新闻",
+          "title": "《伟大的长征》收官，创下2019年以来革命题材剧收视率第一",
+          "url": "https://www.thepaper.cn/newsDetail_forward_34505158",
+          "rank": 9
         },
         {
           "platform_id": "thepaper",
           "platform_name": "澎湃新闻",
           "title": "官方通报烤全羊被指剥不出1两肉：已对涉事民宿立案调查",
           "url": "https://www.thepaper.cn/newsDetail_forward_34504099",
-          "rank": 9
-        },
-        {
-          "platform_id": "thepaper",
-          "platform_name": "澎湃新闻",
-          "title": "APEC中国时间｜在三角梅盛开的深圳，这张城市名片值得解锁",
-          "url": "https://www.thepaper.cn/newsDetail_forward_34494139",
           "rank": 10
         },
         {
           "platform_id": "thepaper",
           "platform_name": "澎湃新闻",
-          "title": "“保证新老师不怀孕”？人民锐评：奇葩举报当休，家校共护师道",
-          "url": "https://www.thepaper.cn/newsDetail_forward_34500070",
+          "title": "马上测丨知网、万方、维普三平台同文实测：AI生成率检测结果悬殊，原创内容遭冤",
+          "url": "https://www.thepaper.cn/newsDetail_forward_34503761",
           "rank": 11
         },
         {
           "platform_id": "thepaper",
           "platform_name": "澎湃新闻",
-          "title": "如何阅读福柯",
-          "url": "https://www.thepaper.cn/newsDetail_forward_34492531",
+          "title": "言短意长｜一个土生土长的中国概念，为什么深圳翻译出来就是不一样",
+          "url": "https://www.thepaper.cn/newsDetail_forward_34508425",
           "rank": 12
         },
         {
           "platform_id": "thepaper",
           "platform_name": "澎湃新闻",
-          "title": "保住第二档、保住帅位，邵佳一能保住国足的上升势头吗",
-          "url": "https://www.thepaper.cn/newsDetail_forward_34501034",
+          "title": "地标是如何炼成的｜从“南京长江大桥”认识南京这座城",
+          "url": "https://www.thepaper.cn/newsDetail_forward_34491581",
           "rank": 13
+        },
+        {
+          "platform_id": "thepaper",
+          "platform_name": "澎湃新闻",
+          "title": "中南大学通报湘雅二医院、湘雅医院AI论文争议：存在学术不端，多人被处理​​​​",
+          "url": "https://www.thepaper.cn/newsDetail_forward_34509594",
+          "rank": 14
+        },
+        {
+          "platform_id": "thepaper",
+          "platform_name": "澎湃新闻",
+          "title": "专访｜澳专家：APEC开AI专题会是积极信号，至少先迈出一小步",
+          "url": "https://www.thepaper.cn/newsDetail_forward_34505131",
+          "rank": 15
         },
         {
           "platform_id": "thepaper",
           "platform_name": "澎湃新闻",
           "title": "“云认养”两年不知东北虎已死亡，女子起诉虎林园求真相",
           "url": "https://www.thepaper.cn/newsDetail_forward_34503324",
-          "rank": 14
+          "rank": 16
         },
         {
           "platform_id": "thepaper",
           "platform_name": "澎湃新闻",
-          "title": "“小猴子摸脸大圣”触动网友，悟空Coser：感觉那一刻我就是“齐天大圣”",
-          "url": "https://www.thepaper.cn/newsDetail_forward_34492548",
-          "rank": 15
+          "title": "80-89岁高龄津贴5元/人/月写错了？慈利县民政局：没写错，系县级惠民政策",
+          "url": "https://www.thepaper.cn/newsDetail_forward_34502841",
+          "rank": 17
         },
         {
           "platform_id": "thepaper",
           "platform_name": "澎湃新闻",
           "title": "“老人拆自家院墙让出1米路”引发讨论，霍邱融媒体中心：其女儿非本单位员工，警方已介入",
           "url": "https://www.thepaper.cn/newsDetail_forward_34504001",
-          "rank": 16
-        },
-        {
-          "platform_id": "thepaper",
-          "platform_name": "澎湃新闻",
-          "title": "APEC一线观察｜特朗普抵达深圳，中美双边互动哪些看点值得期待",
-          "url": "https://www.thepaper.cn/newsDetail_forward_34505038",
-          "rank": 17
-        },
-        {
-          "platform_id": "thepaper",
-          "platform_name": "澎湃新闻",
-          "title": "APEC现场 | 特朗普车队抵达深圳东海朗廷酒店，马斯克现身随行大巴车",
-          "url": "https://www.thepaper.cn/newsDetail_forward_34504407",
           "rank": 18
         },
         {
           "platform_id": "thepaper",
           "platform_name": "澎湃新闻",
-          "title": "外交部：中俄美三国元首将就事关全球和平的重要问题深入交换意见",
-          "url": "https://www.thepaper.cn/newsDetail_forward_34503330",
+          "title": "马上评｜“老人拆墙让路”事件的三重舆论启示",
+          "url": "https://www.thepaper.cn/newsDetail_forward_34509394",
           "rank": 19
         },
         {
           "platform_id": "thepaper",
           "platform_name": "澎湃新闻",
-          "title": "APEC现场 | 普京年内第二次来华，到访中俄合办高校发表演讲",
-          "url": "https://www.thepaper.cn/newsDetail_forward_34503432",
+          "title": "网友称在lululemon试衣后被当小偷遭跟踪翻包，门店账号致歉，最新回应：公司正在处理中",
+          "url": "https://www.thepaper.cn/newsDetail_forward_34503655",
           "rank": 20
         },
         {
@@ -958,799 +958,799 @@
         {
           "platform_id": "tieba",
           "platform_name": "百度贴吧",
+          "title": "RNG爆内幕Uzi卢锡安事件反转",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?amp%3Btopic_name=RNG%E7%88%86%E5%86%85%E5%B9%95Uzi%E5%8D%A2%E9%94%A1%E5%AE%89%E4%BA%8B%E4%BB%B6%E5%8F%8D%E8%BD%AC&topic_id=28369952",
+          "rank": 2
+        },
+        {
+          "platform_id": "tieba",
+          "platform_name": "百度贴吧",
           "title": "《麦穗与羊》原稿传递",
           "url": "https://tieba.baidu.com/hottopic/browse/hottopic?amp%3Btopic_name=%E3%80%8A%E9%BA%A6%E7%A9%97%E4%B8%8E%E7%BE%8A%E3%80%8B%E5%8E%9F%E7%A8%BF%E4%BC%A0%E9%80%92&topic_id=28369865",
-          "rank": 2
+          "rank": 3
+        },
+        {
+          "platform_id": "tieba",
+          "platform_name": "百度贴吧",
+          "title": "Zeus离开HLE真回T1",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?amp%3Btopic_name=Zeus%E7%A6%BB%E5%BC%80HLE%E7%9C%9F%E5%9B%9ET1&topic_id=28369959",
+          "rank": 4
+        },
+        {
+          "platform_id": "tieba",
+          "platform_name": "百度贴吧",
+          "title": "纯黑批影之刃零粪怪遭审判",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?amp%3Btopic_name=%E7%BA%AF%E9%BB%91%E6%89%B9%E5%BD%B1%E4%B9%8B%E5%88%83%E9%9B%B6%E7%B2%AA%E6%80%AA%E9%81%AD%E5%AE%A1%E5%88%A4&topic_id=28369957",
+          "rank": 5
+        },
+        {
+          "platform_id": "tieba",
+          "platform_name": "百度贴吧",
+          "title": "GTA触发风控多个直播间被掐",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?amp%3Btopic_name=GTA%E8%A7%A6%E5%8F%91%E9%A3%8E%E6%8E%A7%E5%A4%9A%E4%B8%AA%E7%9B%B4%E6%92%AD%E9%97%B4%E8%A2%AB%E6%8E%90&topic_id=28369954",
+          "rank": 6
+        },
+        {
+          "platform_id": "tieba",
+          "platform_name": "百度贴吧",
+          "title": "吧友整理GTA6全载具",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?amp%3Btopic_name=%E5%90%A7%E5%8F%8B%E6%95%B4%E7%90%86GTA6%E5%85%A8%E8%BD%BD%E5%85%B7&topic_id=28369953",
+          "rank": 7
+        },
+        {
+          "platform_id": "tieba",
+          "platform_name": "百度贴吧",
+          "title": "超威直播嘴硬一年只坑一次",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?amp%3Btopic_name=%E8%B6%85%E5%A8%81%E7%9B%B4%E6%92%AD%E5%98%B4%E7%A1%AC%E4%B8%80%E5%B9%B4%E5%8F%AA%E5%9D%91%E4%B8%80%E6%AC%A1&topic_id=28369963",
+          "rank": 8
         },
         {
           "platform_id": "tieba",
           "platform_name": "百度贴吧",
           "title": "GTA6开分99创历史最高",
           "url": "https://tieba.baidu.com/hottopic/browse/hottopic?amp%3Btopic_name=GTA6%E5%BC%80%E5%88%8699%E5%88%9B%E5%8E%86%E5%8F%B2%E6%9C%80%E9%AB%98&topic_id=28369949",
-          "rank": 3
+          "rank": 9
         },
         {
           "platform_id": "tieba",
           "platform_name": "百度贴吧",
           "title": "吧友手写《麦穗与羊》观后感",
           "url": "https://tieba.baidu.com/hottopic/browse/hottopic?amp%3Btopic_name=%E5%90%A7%E5%8F%8B%E6%89%8B%E5%86%99%E3%80%8A%E9%BA%A6%E7%A9%97%E4%B8%8E%E7%BE%8A%E3%80%8B%E8%A7%82%E5%90%8E%E6%84%9F&topic_id=28369924",
-          "rank": 4
-        },
-        {
-          "platform_id": "tieba",
-          "platform_name": "百度贴吧",
-          "title": "GTA6发售吧友坐等直播",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?amp%3Btopic_name=GTA6%E5%8F%91%E5%94%AE%E5%90%A7%E5%8F%8B%E5%9D%90%E7%AD%89%E7%9B%B4%E6%92%AD&topic_id=28369923",
-          "rank": 5
+          "rank": 10
         },
         {
           "platform_id": "tieba",
           "platform_name": "百度贴吧",
           "title": "湘雅二医院论文全AI造假",
           "url": "https://tieba.baidu.com/hottopic/browse/hottopic?amp%3Btopic_name=%E6%B9%98%E9%9B%85%E4%BA%8C%E5%8C%BB%E9%99%A2%E8%AE%BA%E6%96%87%E5%85%A8AI%E9%80%A0%E5%81%87&topic_id=28369950",
-          "rank": 6
+          "rank": 11
         },
         {
           "platform_id": "tieba",
           "platform_name": "百度贴吧",
           "title": "uzi入驻第一届抗吧名人堂",
           "url": "https://tieba.baidu.com/hottopic/browse/hottopic?amp%3Btopic_name=uzi%E5%85%A5%E9%A9%BB%E7%AC%AC%E4%B8%80%E5%B1%8A%E6%8A%97%E5%90%A7%E5%90%8D%E4%BA%BA%E5%A0%82&topic_id=28369936",
-          "rank": 7
+          "rank": 12
+        },
+        {
+          "platform_id": "tieba",
+          "platform_name": "百度贴吧",
+          "title": "GTA6发售吧友坐等直播",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?amp%3Btopic_name=GTA6%E5%8F%91%E5%94%AE%E5%90%A7%E5%8F%8B%E5%9D%90%E7%AD%89%E7%9B%B4%E6%92%AD&topic_id=28369923",
+          "rank": 13
         },
         {
           "platform_id": "tieba",
           "platform_name": "百度贴吧",
           "title": "Viper冠军皮肤吧友投谁",
           "url": "https://tieba.baidu.com/hottopic/browse/hottopic?amp%3Btopic_name=Viper%E5%86%A0%E5%86%9B%E7%9A%AE%E8%82%A4%E5%90%A7%E5%8F%8B%E6%8A%95%E8%B0%81&topic_id=28369945",
-          "rank": 8
+          "rank": 14
         },
         {
           "platform_id": "tieba",
           "platform_name": "百度贴吧",
           "title": "TheShy铁粉剑来哥病危",
           "url": "https://tieba.baidu.com/hottopic/browse/hottopic?amp%3Btopic_name=TheShy%E9%93%81%E7%B2%89%E5%89%91%E6%9D%A5%E5%93%A5%E7%97%85%E5%8D%B1&topic_id=28369944",
-          "rank": 9
+          "rank": 15
         },
         {
           "platform_id": "tieba",
           "platform_name": "百度贴吧",
           "title": "影之刃零入围TGA年度游戏",
           "url": "https://tieba.baidu.com/hottopic/browse/hottopic?amp%3Btopic_name=%E5%BD%B1%E4%B9%8B%E5%88%83%E9%9B%B6%E5%85%A5%E5%9B%B4TGA%E5%B9%B4%E5%BA%A6%E6%B8%B8%E6%88%8F&topic_id=28369926",
-          "rank": 10
+          "rank": 16
         },
         {
           "platform_id": "tieba",
           "platform_name": "百度贴吧",
           "title": "羊馍干吧挤满意难平的人",
           "url": "https://tieba.baidu.com/hottopic/browse/hottopic?amp%3Btopic_name=%E7%BE%8A%E9%A6%8D%E5%B9%B2%E5%90%A7%E6%8C%A4%E6%BB%A1%E6%84%8F%E9%9A%BE%E5%B9%B3%E7%9A%84%E4%BA%BA&topic_id=28369884",
-          "rank": 11
+          "rank": 17
         },
         {
           "platform_id": "tieba",
           "platform_name": "百度贴吧",
           "title": "TGA提名Chovy被批野榜",
           "url": "https://tieba.baidu.com/hottopic/browse/hottopic?amp%3Btopic_name=TGA%E6%8F%90%E5%90%8DChovy%E8%A2%AB%E6%89%B9%E9%87%8E%E6%A6%9C&topic_id=28369929",
-          "rank": 12
+          "rank": 18
         },
         {
           "platform_id": "tieba",
           "platform_name": "百度贴吧",
           "title": "写给我的17岁",
           "url": "https://tieba.baidu.com/hottopic/browse/hottopic?amp%3Btopic_name=%E5%86%99%E7%BB%99%E6%88%91%E7%9A%8417%E5%B2%81&topic_id=28369877",
-          "rank": 13
+          "rank": 19
         },
         {
           "platform_id": "tieba",
           "platform_name": "百度贴吧",
           "title": "灯光秀写爸爸我爱你判违规",
           "url": "https://tieba.baidu.com/hottopic/browse/hottopic?amp%3Btopic_name=%E7%81%AF%E5%85%89%E7%A7%80%E5%86%99%E7%88%B8%E7%88%B8%E6%88%91%E7%88%B1%E4%BD%A0%E5%88%A4%E8%BF%9D%E8%A7%84&topic_id=28369925",
-          "rank": 14
+          "rank": 20
         },
         {
           "platform_id": "tieba",
           "platform_name": "百度贴吧",
           "title": "吧友肉眼手绘台风云图",
           "url": "https://tieba.baidu.com/hottopic/browse/hottopic?amp%3Btopic_name=%E5%90%A7%E5%8F%8B%E8%82%89%E7%9C%BC%E6%89%8B%E7%BB%98%E5%8F%B0%E9%A3%8E%E4%BA%91%E5%9B%BE&topic_id=28369907",
-          "rank": 15
+          "rank": 21
         },
         {
           "platform_id": "tieba",
           "platform_name": "百度贴吧",
           "title": "蝙蝠侠真身实为007",
           "url": "https://tieba.baidu.com/hottopic/browse/hottopic?amp%3Btopic_name=%E8%9D%99%E8%9D%A0%E4%BE%A0%E7%9C%9F%E8%BA%AB%E5%AE%9E%E4%B8%BA007&topic_id=28369886",
-          "rank": 16
+          "rank": 22
         },
         {
           "platform_id": "tieba",
           "platform_name": "百度贴吧",
           "title": "吧友考古暴力摩托刘沛松梗起源",
           "url": "https://tieba.baidu.com/hottopic/browse/hottopic?amp%3Btopic_name=%E5%90%A7%E5%8F%8B%E8%80%83%E5%8F%A4%E6%9A%B4%E5%8A%9B%E6%91%A9%E6%89%98%E5%88%98%E6%B2%9B%E6%9D%BE%E6%A2%97%E8%B5%B7%E6%BA%90&topic_id=28369904",
-          "rank": 17
+          "rank": 23
         },
         {
           "platform_id": "tieba",
           "platform_name": "百度贴吧",
           "title": "抗吧史官记录Bin哥夺冠清算",
           "url": "https://tieba.baidu.com/hottopic/browse/hottopic?amp%3Btopic_name=%E6%8A%97%E5%90%A7%E5%8F%B2%E5%AE%98%E8%AE%B0%E5%BD%95Bin%E5%93%A5%E5%A4%BA%E5%86%A0%E6%B8%85%E7%AE%97&topic_id=28369882",
-          "rank": 18
+          "rank": 24
         },
         {
           "platform_id": "tieba",
           "platform_name": "百度贴吧",
           "title": "DeepSeek限额吧友心态崩了",
           "url": "https://tieba.baidu.com/hottopic/browse/hottopic?amp%3Btopic_name=DeepSeek%E9%99%90%E9%A2%9D%E5%90%A7%E5%8F%8B%E5%BF%83%E6%80%81%E5%B4%A9%E4%BA%86&topic_id=28369883",
-          "rank": 19
+          "rank": 25
         },
         {
           "platform_id": "tieba",
           "platform_name": "百度贴吧",
           "title": "吧友码九十万字顺手造个朝代",
           "url": "https://tieba.baidu.com/hottopic/browse/hottopic?amp%3Btopic_name=%E5%90%A7%E5%8F%8B%E7%A0%81%E4%B9%9D%E5%8D%81%E4%B8%87%E5%AD%97%E9%A1%BA%E6%89%8B%E9%80%A0%E4%B8%AA%E6%9C%9D%E4%BB%A3&topic_id=28369915",
-          "rank": 20
+          "rank": 26
         },
         {
           "platform_id": "tieba",
           "platform_name": "百度贴吧",
           "title": "吧友专业修复飞雪旧图",
           "url": "https://tieba.baidu.com/hottopic/browse/hottopic?amp%3Btopic_name=%E5%90%A7%E5%8F%8B%E4%B8%93%E4%B8%9A%E4%BF%AE%E5%A4%8D%E9%A3%9E%E9%9B%AA%E6%97%A7%E5%9B%BE&topic_id=28369914",
-          "rank": 21
+          "rank": 27
         },
         {
           "platform_id": "tieba",
           "platform_name": "百度贴吧",
           "title": "左手直播间谈皮肤选择",
           "url": "https://tieba.baidu.com/hottopic/browse/hottopic?amp%3Btopic_name=%E5%B7%A6%E6%89%8B%E7%9B%B4%E6%92%AD%E9%97%B4%E8%B0%88%E7%9A%AE%E8%82%A4%E9%80%89%E6%8B%A9&topic_id=28369880",
-          "rank": 22
+          "rank": 28
         },
         {
           "platform_id": "tieba",
           "platform_name": "百度贴吧",
           "title": "LPL夺冠Uzi沉默引猜疑",
           "url": "https://tieba.baidu.com/hottopic/browse/hottopic?amp%3Btopic_name=LPL%E5%A4%BA%E5%86%A0Uzi%E6%B2%89%E9%BB%98%E5%BC%95%E7%8C%9C%E7%96%91&topic_id=28369854",
-          "rank": 23
+          "rank": 29
         },
         {
           "platform_id": "tieba",
           "platform_name": "百度贴吧",
           "title": "陈睿现身BLG庆功宴",
           "url": "https://tieba.baidu.com/hottopic/browse/hottopic?amp%3Btopic_name=%E9%99%88%E7%9D%BF%E7%8E%B0%E8%BA%ABBLG%E5%BA%86%E5%8A%9F%E5%AE%B4&topic_id=28369856",
-          "rank": 24
-        },
-        {
-          "platform_id": "tieba",
-          "platform_name": "百度贴吧",
-          "title": "提欧奥特曼女二演员中田乃爱去世",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?amp%3Btopic_name=%E6%8F%90%E6%AC%A7%E5%A5%A5%E7%89%B9%E6%9B%BC%E5%A5%B3%E4%BA%8C%E6%BC%94%E5%91%98%E4%B8%AD%E7%94%B0%E4%B9%83%E7%88%B1%E5%8E%BB%E4%B8%96&topic_id=28369867",
-          "rank": 25
-        },
-        {
-          "platform_id": "tieba",
-          "platform_name": "百度贴吧",
-          "title": "亚马尔种族歧视内容系伪造",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?amp%3Btopic_name=%E4%BA%9A%E9%A9%AC%E5%B0%94%E7%A7%8D%E6%97%8F%E6%AD%A7%E8%A7%86%E5%86%85%E5%AE%B9%E7%B3%BB%E4%BC%AA%E9%80%A0&topic_id=28369881",
-          "rank": 26
-        },
-        {
-          "platform_id": "tieba",
-          "platform_name": "百度贴吧",
-          "title": "BLG冠军皮投票格温直追武器",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?amp%3Btopic_name=BLG%E5%86%A0%E5%86%9B%E7%9A%AE%E6%8A%95%E7%A5%A8%E6%A0%BC%E6%B8%A9%E7%9B%B4%E8%BF%BD%E6%AD%A6%E5%99%A8&topic_id=28369853",
-          "rank": 27
-        },
-        {
-          "platform_id": "tieba",
-          "platform_name": "百度贴吧",
-          "title": "左手爆料Faker私下祝他夺冠",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?amp%3Btopic_name=%E5%B7%A6%E6%89%8B%E7%88%86%E6%96%99Faker%E7%A7%81%E4%B8%8B%E7%A5%9D%E4%BB%96%E5%A4%BA%E5%86%A0&topic_id=28369855",
-          "rank": 28
-        },
-        {
-          "platform_id": "tieba",
-          "platform_name": "百度贴吧",
-          "title": "吧友养大肥鱼被绘圈对象断崖分手",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?amp%3Btopic_name=%E5%90%A7%E5%8F%8B%E5%85%BB%E5%A4%A7%E8%82%A5%E9%B1%BC%E8%A2%AB%E7%BB%98%E5%9C%88%E5%AF%B9%E8%B1%A1%E6%96%AD%E5%B4%96%E5%88%86%E6%89%8B&topic_id=28369850",
-          "rank": 29
-        },
-        {
-          "platform_id": "tieba",
-          "platform_name": "百度贴吧",
-          "title": "孙吧集体追忆逝去的爱",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?amp%3Btopic_name=%E5%AD%99%E5%90%A7%E9%9B%86%E4%BD%93%E8%BF%BD%E5%BF%86%E9%80%9D%E5%8E%BB%E7%9A%84%E7%88%B1&topic_id=28369846",
           "rank": 30
         },
         {
           "platform_id": "toutiao",
           "platform_name": "今日头条",
-          "title": "习近平同APEC各经济体领导人合影",
-          "url": "https://www.toutiao.com/trending/7709445844642250762/",
+          "title": "APEC围巾图案取自“中国年”会标",
+          "url": "https://www.toutiao.com/trending/7709715926195421706/",
           "rank": 1
         },
         {
           "platform_id": "toutiao",
           "platform_name": "今日头条",
-          "title": "普京和特朗普互动握手",
-          "url": "https://www.toutiao.com/trending/7709016121017434153/",
+          "title": "中国外交跑腿天团全是中国造",
+          "url": "https://www.toutiao.com/trending/7709694659287695899/",
           "rank": 2
         },
         {
           "platform_id": "toutiao",
           "platform_name": "今日头条",
-          "title": "APEC十二年间有哪些新变化？",
-          "url": "https://www.toutiao.com/trending/7709413556537642515/",
+          "title": "构建亚太共同体的中国贡献",
+          "url": "https://www.toutiao.com/trending/7709702344144866867/",
           "rank": 3
         },
         {
           "platform_id": "toutiao",
           "platform_name": "今日头条",
-          "title": "地毯机2分钟铺好特朗普下机专道",
-          "url": "https://www.toutiao.com/trending/7709505450269724170/",
+          "title": "特朗普和普京会晤时开了个玩笑",
+          "url": "https://www.toutiao.com/trending/7709749235624873482/",
           "rank": 4
         },
         {
           "platform_id": "toutiao",
           "platform_name": "今日头条",
-          "title": "黄金连续大跌是金融风暴前兆吗",
-          "url": "https://www.toutiao.com/trending/7709499329232244234/",
+          "title": "ShenzhenTravel在外网火了",
+          "url": "https://www.toutiao.com/trending/7709758033869409855/",
           "rank": 5
         },
         {
           "platform_id": "toutiao",
           "platform_name": "今日头条",
-          "title": "国台办回应“两岸2032年统一货币”",
-          "url": "https://www.toutiao.com/trending/7708917518445838378/",
+          "title": "董明珠获邀：你一定要来澳大利亚",
+          "url": "https://www.toutiao.com/trending/7708619035033780260/",
           "rank": 6
         },
         {
           "platform_id": "toutiao",
           "platform_name": "今日头条",
-          "title": "中国军人在空军一号轰鸣声前岿然不动",
-          "url": "https://www.toutiao.com/trending/7709461334986870281/",
+          "title": "普京乘电梯时主动礼让文莱苏丹",
+          "url": "https://www.toutiao.com/trending/7708698683692531775/",
           "rank": 7
         },
         {
           "platform_id": "toutiao",
           "platform_name": "今日头条",
-          "title": "中方回应英伟达停止向华供应H200芯片",
-          "url": "https://www.toutiao.com/trending/7709409012864781866/",
+          "title": "老中医教你冬天懒人养生法",
+          "url": "https://www.toutiao.com/trending/7704185542338167346/",
           "rank": 8
         },
         {
           "platform_id": "toutiao",
           "platform_name": "今日头条",
-          "title": "中外媒体紧盯这些APEC关键词",
-          "url": "https://www.toutiao.com/trending/7709475763854233115/",
+          "title": "在深圳看见中国机遇",
+          "url": "https://www.toutiao.com/trending/7709702168672141321/",
           "rank": 9
         },
         {
           "platform_id": "toutiao",
           "platform_name": "今日头条",
-          "title": "台湾岛内震撼：全世界焦点都在深圳",
-          "url": "https://www.toutiao.com/trending/7709418503715094571/",
+          "title": "马斯克：中国很酷",
+          "url": "https://www.toutiao.com/trending/7709399404016356927/",
           "rank": 10
         },
         {
           "platform_id": "toutiao",
           "platform_name": "今日头条",
-          "title": "养老保险缴15年就能坐等退休？假的",
-          "url": "https://www.toutiao.com/trending/7709463695210008115/",
+          "title": "小番茄的逆袭洗白之路",
+          "url": "https://www.toutiao.com/trending/7709704943062007862/",
           "rank": 11
         },
         {
           "platform_id": "toutiao",
           "platform_name": "今日头条",
-          "title": "特朗普坐上专属座驾在车上挥手",
-          "url": "https://www.toutiao.com/trending/7709463182196084234/",
+          "title": "AI作弊正让韩国如临大敌",
+          "url": "https://www.toutiao.com/trending/7709757808819834411/",
           "rank": 12
         },
         {
           "platform_id": "toutiao",
           "platform_name": "今日头条",
-          "title": "深圳机场停满各国领导人专机",
-          "url": "https://www.toutiao.com/trending/7709090624632327721/",
+          "title": "APEC领导人互相整理围巾",
+          "url": "https://www.toutiao.com/trending/7709067230809571391/",
           "rank": 13
         },
         {
           "platform_id": "toutiao",
           "platform_name": "今日头条",
-          "title": "“山东造”小冰箱为何又被提起",
-          "url": "https://www.toutiao.com/trending/7709414436498325555/",
+          "title": "菲总统来华会见中企高管有何目的",
+          "url": "https://www.toutiao.com/trending/7709713936739729930/",
           "rank": 14
         },
         {
           "platform_id": "toutiao",
           "platform_name": "今日头条",
-          "title": "公安机关抓获拒执嫌疑人5795人",
-          "url": "https://www.toutiao.com/trending/7709397947892744755/",
+          "title": "韩国为查高考作弊将向手机发灾难警报",
+          "url": "https://www.toutiao.com/trending/7709494843366752818/",
           "rank": 15
         },
         {
           "platform_id": "toutiao",
           "platform_name": "今日头条",
-          "title": "普京对镜头微笑挥手",
-          "url": "https://www.toutiao.com/trending/7709495079953632794/",
+          "title": "特朗普感激中国",
+          "url": "https://www.toutiao.com/trending/7709399404008230463/",
           "rank": 16
         },
         {
           "platform_id": "toutiao",
           "platform_name": "今日头条",
-          "title": "安徽拆墙让路老人女儿发声",
-          "url": "https://www.toutiao.com/trending/7709068943562736179/",
+          "title": "小学试卷出现93年张奶奶97年张大爷",
+          "url": "https://www.toutiao.com/trending/7709266303239979570/",
           "rank": 17
         },
         {
           "platform_id": "toutiao",
           "platform_name": "今日头条",
-          "title": "当地回应80-89岁老人高龄津贴5元/月",
-          "url": "https://www.toutiao.com/trending/7709257689565593663/",
+          "title": "芦玉菲社保欠缴部分已全部缴纳",
+          "url": "https://www.toutiao.com/trending/7709714630193381897/",
           "rank": 18
         },
         {
           "platform_id": "toutiao",
           "platform_name": "今日头条",
-          "title": "何超琼发言董明珠全程注视满眼欣赏",
-          "url": "https://www.toutiao.com/trending/7709093852434546751/",
+          "title": "普京：难怪您会选这里举办APEC",
+          "url": "https://www.toutiao.com/trending/7709413556537691667/",
           "rank": 19
         },
         {
           "platform_id": "toutiao",
           "platform_name": "今日头条",
-          "title": "为何还有人坚持只买油车",
-          "url": "https://www.toutiao.com/trending/7709430663585205801/",
+          "title": "深圳深南大道是湖北“建”的",
+          "url": "https://www.toutiao.com/trending/7709532927550194214/",
           "rank": 20
         },
         {
           "platform_id": "toutiao",
           "platform_name": "今日头条",
-          "title": "陆毅女儿贝儿官宣出道",
-          "url": "https://www.toutiao.com/trending/7709339607524196915/",
+          "title": "金饰克价直降500多元",
+          "url": "https://www.toutiao.com/trending/7709415312886612009/",
           "rank": 21
         },
         {
           "platform_id": "toutiao",
           "platform_name": "今日头条",
-          "title": "马斯克现身特朗普随行大巴车",
-          "url": "https://www.toutiao.com/trending/7709467829095108147/",
+          "title": "普京随行副官携带核公文包",
+          "url": "https://www.toutiao.com/trending/7709633676023369252/",
           "rank": 22
         },
         {
           "platform_id": "toutiao",
           "platform_name": "今日头条",
-          "title": "猪价重回9元关口",
-          "url": "https://www.toutiao.com/trending/7709008147332644906/",
+          "title": "朱之文称被黑粉举报损失一百多万",
+          "url": "https://www.toutiao.com/trending/7709712450127725083/",
           "rank": 23
         },
         {
           "platform_id": "toutiao",
           "platform_name": "今日头条",
-          "title": "男子结婚9年三个子女非亲生",
-          "url": "https://www.toutiao.com/trending/7709031030765977627/",
+          "title": "金银铜价格齐跌意味着什么",
+          "url": "https://www.toutiao.com/trending/7709724847210761770/",
           "rank": 24
         },
         {
           "platform_id": "toutiao",
           "platform_name": "今日头条",
-          "title": "历史性时刻：普京特朗普同日抵达深圳",
-          "url": "https://www.toutiao.com/trending/7709399404008066623/",
+          "title": "墨西哥总统用中国智能吉他弹茉莉花",
+          "url": "https://www.toutiao.com/trending/7709735631445951002/",
           "rank": 25
         },
         {
           "platform_id": "toutiao",
           "platform_name": "今日头条",
-          "title": "刘德华辅导女儿写作业也烦恼",
-          "url": "https://www.toutiao.com/trending/7708947257860588041/",
+          "title": "2000块能搞定GTA6吗",
+          "url": "https://www.toutiao.com/trending/7709724206409190948/",
           "rank": 26
         },
         {
           "platform_id": "toutiao",
           "platform_name": "今日头条",
-          "title": "男子滩涂赶海抓青蟹 个头惊人",
-          "url": "https://www.toutiao.com/trending/7709361469087203866/",
+          "title": "《峨眉山来了群女弟子》开录",
+          "url": "https://www.toutiao.com/trending/7709685750572794394/",
           "rank": 27
         },
         {
           "platform_id": "toutiao",
           "platform_name": "今日头条",
-          "title": "记者称普京车队起码有40多辆",
-          "url": "https://www.toutiao.com/trending/7709125319671840778/",
+          "title": "特朗普沉浸式欣赏深圳的夜",
+          "url": "https://www.toutiao.com/trending/7709413556537724435/",
           "rank": 28
         },
         {
           "platform_id": "toutiao",
           "platform_name": "今日头条",
-          "title": "文莱领导人握手前中方安保1秒摘手套",
-          "url": "https://www.toutiao.com/trending/7709211203091972150/",
+          "title": "妈妈给儿子辅导作业被嫌弃",
+          "url": "https://www.toutiao.com/trending/7708730975831982619/",
           "rank": 29
         },
         {
           "platform_id": "toutiao",
           "platform_name": "今日头条",
-          "title": "冬季养肾效率最高",
-          "url": "https://www.toutiao.com/trending/7708928830081761318/",
+          "title": "掘金105-101绿军",
+          "url": "https://www.toutiao.com/trending/7709747392337691187/",
           "rank": 30
         },
         {
           "platform_id": "wallstreetcn-hot",
           "platform_name": "华尔街见闻",
-          "title": "英伟达电话会：“不打算请回黄仁勋”，2028财年增速预期上调至75%，AI投资将更加“克制与挑剔”",
-          "url": "https://wallstreetcn.com/articles/3786136",
+          "title": "腾讯：WorkBuddy崛起为中国使用量最大AI应用，“小微”未来媲美Muse，元宝不及预期成功",
+          "url": "https://wallstreetcn.com/articles/3786214",
           "rank": 1
         },
         {
           "platform_id": "wallstreetcn-hot",
           "platform_name": "华尔街见闻",
-          "title": "英伟达担忧暂缓！本季指引再超预期创新高，Vera Rubin“爆发式开局”，调升下财年指引 | 财报见闻",
-          "url": "https://wallstreetcn.com/articles/3786135",
+          "title": "英伟达拖累美股，标普五连跌，纳指逆势微涨，网络安全股票大涨，黄金重挫创十四个月新低",
+          "url": "https://wallstreetcn.com/articles/3786169",
           "rank": 2
         },
         {
           "platform_id": "wallstreetcn-hot",
           "platform_name": "华尔街见闻",
-          "title": "系统中断密集爆发，标普、纳指四连跌，软件股重挫，盘后英伟达涨3%，美元结束五连涨",
-          "url": "https://wallstreetcn.com/articles/3786084",
+          "title": "史上最大IPO周四上市！Anthropic定价83美元，募资超1070亿美元、估值1.5万亿",
+          "url": "https://wallstreetcn.com/articles/3786222",
           "rank": 3
-        },
-        {
-          "platform_id": "wallstreetcn-hot",
-          "platform_name": "华尔街见闻",
-          "title": "德鲁肯米勒：做空铜，“离开”股市，“不敢做多也不敢做空”，现在目标是保本",
-          "url": "https://wallstreetcn.com/articles/3786129",
-          "rank": 4
-        },
-        {
-          "platform_id": "wallstreetcn-hot",
-          "platform_name": "华尔街见闻",
-          "title": "腾讯：WorkBuddy七天年化收入突破5亿美元，是腾讯会议的两倍以上，受算力限制下一代混元推出时间可能延迟",
-          "url": "https://wallstreetcn.com/articles/3786214",
-          "rank": 5
-        },
-        {
-          "platform_id": "wallstreetcn-hot",
-          "platform_name": "华尔街见闻",
-          "title": "华尔街见闻早餐FM-Radio | 2026年11月18日",
-          "url": "https://wallstreetcn.com/articles/3786137",
-          "rank": 6
-        },
-        {
-          "platform_id": "wallstreetcn-hot",
-          "platform_name": "华尔街见闻",
-          "title": "习近平在亚太经合组织工商领导人峰会上的主旨演讲（全文）",
-          "url": "https://wallstreetcn.com/articles/3786157",
-          "rank": 7
         },
         {
           "platform_id": "wallstreetcn-hot",
           "platform_name": "华尔街见闻",
           "title": "腾讯Q3营收同比增8%，资本开支814.3亿元大超预期，WorkBuddy日活破千万，自由现金流延续负值｜财报见闻",
           "url": "https://wallstreetcn.com/articles/3786186",
+          "rank": 4
+        },
+        {
+          "platform_id": "wallstreetcn-hot",
+          "platform_name": "华尔街见闻",
+          "title": "金属崩了！金银铜齐跌",
+          "url": "https://wallstreetcn.com/articles/3786224",
+          "rank": 5
+        },
+        {
+          "platform_id": "wallstreetcn-hot",
+          "platform_name": "华尔街见闻",
+          "title": "华尔街见闻早餐FM-Radio | 2026年11月19日",
+          "url": "https://wallstreetcn.com/articles/3786236",
+          "rank": 6
+        },
+        {
+          "platform_id": "wallstreetcn-hot",
+          "platform_name": "华尔街见闻",
+          "title": "美联储纪要鹰声大作：几乎全体认为还需加息，更多人支持10月就行动，“不透明”AI债务风险引担忧",
+          "url": "https://wallstreetcn.com/articles/3786227",
+          "rank": 7
+        },
+        {
+          "platform_id": "wallstreetcn-hot",
+          "platform_name": "华尔街见闻",
+          "title": "美联储分歧加剧：沃勒称12月应考虑加息50个基点，威廉姆斯认为无需激进收紧",
+          "url": "https://wallstreetcn.com/articles/3786207",
           "rank": 8
         },
         {
           "platform_id": "wallstreetcn-hot",
           "platform_name": "华尔街见闻",
-          "title": "回归英伟达，黄仁勋要先“干掉董事会”",
-          "url": "https://wallstreetcn.com/articles/3786145",
+          "title": "“带着500亿美元再创业”？“投奔马斯克”？黄仁勋下一站会在哪",
+          "url": "https://wallstreetcn.com/articles/3786201",
           "rank": 9
         },
         {
           "platform_id": "wallstreetcn-hot",
           "platform_name": "华尔街见闻",
-          "title": "英伟达高开低走，美股半导体指数转跌，黄金跌破3800美元，油价下跌",
-          "url": "https://wallstreetcn.com/articles/3786169",
+          "title": "“AI央行”开启量化紧缩！英伟达新CEO收紧投资闸门，Neocloud融资命脉告急",
+          "url": "https://wallstreetcn.com/articles/3786182",
           "rank": 10
         },
         {
           "platform_id": "weibo",
           "platform_name": "微博",
-          "title": "APEC会议来宾欢迎宴会大合影",
-          "url": "https://s.weibo.com/weibo?q=%23APEC%E4%BC%9A%E8%AE%AE%E6%9D%A5%E5%AE%BE%E6%AC%A2%E8%BF%8E%E5%AE%B4%E4%BC%9A%E5%A4%A7%E5%90%88%E5%BD%B1%23",
+          "title": "中俄美三国元首会晤",
+          "url": "https://s.weibo.com/weibo?q=%23%E4%B8%AD%E4%BF%84%E7%BE%8E%E4%B8%89%E5%9B%BD%E5%85%83%E9%A6%96%E4%BC%9A%E6%99%A4%23",
           "rank": 1
         },
         {
           "platform_id": "weibo",
           "platform_name": "微博",
-          "title": "特朗普感受到了深圳市民的热情",
-          "url": "https://s.weibo.com/weibo?q=%23%E7%89%B9%E6%9C%97%E6%99%AE%E6%84%9F%E5%8F%97%E5%88%B0%E4%BA%86%E6%B7%B1%E5%9C%B3%E5%B8%82%E6%B0%91%E7%9A%84%E7%83%AD%E6%83%85%23",
+          "title": "APEC领导人休息室温馨画面",
+          "url": "https://s.weibo.com/weibo?q=%23APEC%E9%A2%86%E5%AF%BC%E4%BA%BA%E4%BC%91%E6%81%AF%E5%AE%A4%E6%B8%A9%E9%A6%A8%E7%94%BB%E9%9D%A2%23",
           "rank": 2
         },
         {
           "platform_id": "weibo",
           "platform_name": "微博",
-          "title": "深圳倡议发布",
-          "url": "https://s.weibo.com/weibo?q=%23%E6%B7%B1%E5%9C%B3%E5%80%A1%E8%AE%AE%E5%8F%91%E5%B8%83%23",
+          "title": "亚太创新合作呈现普惠新特点",
+          "url": "https://s.weibo.com/weibo?q=%23%E4%BA%9A%E5%A4%AA%E5%88%9B%E6%96%B0%E5%90%88%E4%BD%9C%E5%91%88%E7%8E%B0%E6%99%AE%E6%83%A0%E6%96%B0%E7%89%B9%E7%82%B9%23",
           "rank": 3
         },
         {
           "platform_id": "weibo",
           "platform_name": "微博",
-          "title": "普京说俄罗斯也想模仿这种成就",
-          "url": "https://s.weibo.com/weibo?q=%23%E6%99%AE%E4%BA%AC%E8%AF%B4%E4%BF%84%E7%BD%97%E6%96%AF%E4%B9%9F%E6%83%B3%E6%A8%A1%E4%BB%BF%E8%BF%99%E7%A7%8D%E6%88%90%E5%B0%B1%23",
+          "title": "特朗普会见普京时打趣问这是谁",
+          "url": "https://s.weibo.com/weibo?q=%23%E7%89%B9%E6%9C%97%E6%99%AE%E4%BC%9A%E8%A7%81%E6%99%AE%E4%BA%AC%E6%97%B6%E6%89%93%E8%B6%A3%E9%97%AE%E8%BF%99%E6%98%AF%E8%B0%81%23",
           "rank": 4
         },
         {
           "platform_id": "weibo",
           "platform_name": "微博",
-          "title": "哪家AI能画对13个鸡蛋",
-          "url": "https://s.weibo.com/weibo?q=%23%E5%93%AA%E5%AE%B6AI%E8%83%BD%E7%94%BB%E5%AF%B913%E4%B8%AA%E9%B8%A1%E8%9B%8B%23",
+          "title": "中美元首深圳会晤",
+          "url": "https://s.weibo.com/weibo?q=%23%E4%B8%AD%E7%BE%8E%E5%85%83%E9%A6%96%E6%B7%B1%E5%9C%B3%E4%BC%9A%E6%99%A4%23",
           "rank": 5
         },
         {
           "platform_id": "weibo",
           "platform_name": "微博",
-          "title": "北大时期张泉灵美成女儿国国王了",
-          "url": "https://s.weibo.com/weibo?q=%23%E5%8C%97%E5%A4%A7%E6%97%B6%E6%9C%9F%E5%BC%A0%E6%B3%89%E7%81%B5%E7%BE%8E%E6%88%90%E5%A5%B3%E5%84%BF%E5%9B%BD%E5%9B%BD%E7%8E%8B%E4%BA%86%23",
+          "title": "竞燃之夜红毯",
+          "url": "https://s.weibo.com/weibo?q=%E7%AB%9E%E7%87%83%E4%B9%8B%E5%A4%9C%E7%BA%A2%E6%AF%AF",
           "rank": 6
         },
         {
           "platform_id": "weibo",
           "platform_name": "微博",
-          "title": "蔡国庆摔了",
-          "url": "https://s.weibo.com/weibo?q=%23%E8%94%A1%E5%9B%BD%E5%BA%86%E6%91%94%E4%BA%86%23",
+          "title": "微博竞燃之夜",
+          "url": "https://s.weibo.com/weibo?q=%E5%BE%AE%E5%8D%9A%E7%AB%9E%E7%87%83%E4%B9%8B%E5%A4%9C",
           "rank": 7
         },
         {
           "platform_id": "weibo",
           "platform_name": "微博",
-          "title": "纸质短剧",
-          "url": "https://s.weibo.com/weibo?q=%E7%BA%B8%E8%B4%A8%E7%9F%AD%E5%89%A7",
+          "title": "许飞 我们没有掰",
+          "url": "https://s.weibo.com/weibo?q=%E8%AE%B8%E9%A3%9E+%E6%88%91%E4%BB%AC%E6%B2%A1%E6%9C%89%E6%8E%B0",
           "rank": 8
         },
         {
           "platform_id": "weibo",
           "platform_name": "微博",
-          "title": "李在明夫妇会见韩籍在华企业家",
-          "url": "https://s.weibo.com/weibo?q=%23%E6%9D%8E%E5%9C%A8%E6%98%8E%E5%A4%AB%E5%A6%87%E4%BC%9A%E8%A7%81%E9%9F%A9%E7%B1%8D%E5%9C%A8%E5%8D%8E%E4%BC%81%E4%B8%9A%E5%AE%B6%23",
+          "title": "APEC中国年进入高光时刻",
+          "url": "https://s.weibo.com/weibo?q=%23APEC%E4%B8%AD%E5%9B%BD%E5%B9%B4%E8%BF%9B%E5%85%A5%E9%AB%98%E5%85%89%E6%97%B6%E5%88%BB%23",
           "rank": 9
         },
         {
           "platform_id": "weibo",
           "platform_name": "微博",
-          "title": "APEC欢迎宴会高清大图",
-          "url": "https://s.weibo.com/weibo?q=%23APEC%E6%AC%A2%E8%BF%8E%E5%AE%B4%E4%BC%9A%E9%AB%98%E6%B8%85%E5%A4%A7%E5%9B%BE%23",
+          "title": "甄嬛传剧组故意没让颖儿学礼仪",
+          "url": "https://s.weibo.com/weibo?q=%23%E7%94%84%E5%AC%9B%E4%BC%A0%E5%89%A7%E7%BB%84%E6%95%85%E6%84%8F%E6%B2%A1%E8%AE%A9%E9%A2%96%E5%84%BF%E5%AD%A6%E7%A4%BC%E4%BB%AA%23",
           "rank": 10
         },
         {
           "platform_id": "weibo",
           "platform_name": "微博",
-          "title": "养老保险缴够15年就能坐等退休系谣言",
-          "url": "https://s.weibo.com/weibo?q=%23%E5%85%BB%E8%80%81%E4%BF%9D%E9%99%A9%E7%BC%B4%E5%A4%9F15%E5%B9%B4%E5%B0%B1%E8%83%BD%E5%9D%90%E7%AD%89%E9%80%80%E4%BC%91%E7%B3%BB%E8%B0%A3%E8%A8%80%23",
+          "title": "胖东来撤走后降到四百万依然没有人接盘",
+          "url": "https://s.weibo.com/weibo?q=%23%E8%83%96%E4%B8%9C%E6%9D%A5%E6%92%A4%E8%B5%B0%E5%90%8E%E9%99%8D%E5%88%B0%E5%9B%9B%E7%99%BE%E4%B8%87%E4%BE%9D%E7%84%B6%E6%B2%A1%E6%9C%89%E4%BA%BA%E6%8E%A5%E7%9B%98%23",
           "rank": 11
         },
         {
           "platform_id": "weibo",
           "platform_name": "微博",
-          "title": "豆包画13个鸡蛋反复出错",
-          "url": "https://s.weibo.com/weibo?q=%E8%B1%86%E5%8C%85%E7%94%BB13%E4%B8%AA%E9%B8%A1%E8%9B%8B%E5%8F%8D%E5%A4%8D%E5%87%BA%E9%94%99",
+          "title": "王子璇白眼",
+          "url": "https://s.weibo.com/weibo?q=%E7%8E%8B%E5%AD%90%E7%92%87%E7%99%BD%E7%9C%BC",
           "rank": 12
         },
         {
           "platform_id": "weibo",
           "platform_name": "微博",
-          "title": "KPL",
-          "url": "https://s.weibo.com/weibo?q=KPL",
+          "title": "马斯克小儿子说爱中国",
+          "url": "https://s.weibo.com/weibo?q=%23%E9%A9%AC%E6%96%AF%E5%85%8B%E5%B0%8F%E5%84%BF%E5%AD%90%E8%AF%B4%E7%88%B1%E4%B8%AD%E5%9B%BD%23",
           "rank": 13
         },
         {
           "platform_id": "weibo",
           "platform_name": "微博",
-          "title": "普京和特朗普互动握手",
-          "url": "https://s.weibo.com/weibo?q=%23%E6%99%AE%E4%BA%AC%E5%92%8C%E7%89%B9%E6%9C%97%E6%99%AE%E4%BA%92%E5%8A%A8%E6%8F%A1%E6%89%8B%23",
+          "title": "陈晓楠文吉儿聊不下去了",
+          "url": "https://s.weibo.com/weibo?q=%23%E9%99%88%E6%99%93%E6%A5%A0%E6%96%87%E5%90%89%E5%84%BF%E8%81%8A%E4%B8%8D%E4%B8%8B%E5%8E%BB%E4%BA%86%23",
           "rank": 14
         },
         {
           "platform_id": "weibo",
           "platform_name": "微博",
-          "title": "杨超越这段音频即将迎来赛博永生",
-          "url": "https://s.weibo.com/weibo?q=%E6%9D%A8%E8%B6%85%E8%B6%8A%E8%BF%99%E6%AE%B5%E9%9F%B3%E9%A2%91%E5%8D%B3%E5%B0%86%E8%BF%8E%E6%9D%A5%E8%B5%9B%E5%8D%9A%E6%B0%B8%E7%94%9F",
+          "title": "马斯克小儿子玩具都是中国制造",
+          "url": "https://s.weibo.com/weibo?q=%23%E9%A9%AC%E6%96%AF%E5%85%8B%E5%B0%8F%E5%84%BF%E5%AD%90%E7%8E%A9%E5%85%B7%E9%83%BD%E6%98%AF%E4%B8%AD%E5%9B%BD%E5%88%B6%E9%80%A0%23",
           "rank": 15
         },
         {
           "platform_id": "weibo",
           "platform_name": "微博",
-          "title": "情侣鼓楼偶遇大爷拍出人生照片",
-          "url": "https://s.weibo.com/weibo?q=%23%E6%83%85%E4%BE%A3%E9%BC%93%E6%A5%BC%E5%81%B6%E9%81%87%E5%A4%A7%E7%88%B7%E6%8B%8D%E5%87%BA%E4%BA%BA%E7%94%9F%E7%85%A7%E7%89%87%23",
+          "title": "于东来不还价撤店",
+          "url": "https://s.weibo.com/weibo?q=%E4%BA%8E%E4%B8%9C%E6%9D%A5%E4%B8%8D%E8%BF%98%E4%BB%B7%E6%92%A4%E5%BA%97",
           "rank": 16
         },
         {
           "platform_id": "weibo",
           "platform_name": "微博",
-          "title": "老外被中国刷手机丝滑到了",
-          "url": "https://s.weibo.com/weibo?q=%23%E8%80%81%E5%A4%96%E8%A2%AB%E4%B8%AD%E5%9B%BD%E5%88%B7%E6%89%8B%E6%9C%BA%E4%B8%9D%E6%BB%91%E5%88%B0%E4%BA%86%23",
+          "title": "伊能静 张萌马天宇不适合做朋友",
+          "url": "https://s.weibo.com/weibo?q=%E4%BC%8A%E8%83%BD%E9%9D%99+%E5%BC%A0%E8%90%8C%E9%A9%AC%E5%A4%A9%E5%AE%87%E4%B8%8D%E9%80%82%E5%90%88%E5%81%9A%E6%9C%8B%E5%8F%8B",
           "rank": 17
         },
         {
           "platform_id": "weibo",
           "platform_name": "微博",
-          "title": "特朗普团队已抵达下榻酒店",
-          "url": "https://s.weibo.com/weibo?q=%23%E7%89%B9%E6%9C%97%E6%99%AE%E5%9B%A2%E9%98%9F%E5%B7%B2%E6%8A%B5%E8%BE%BE%E4%B8%8B%E6%A6%BB%E9%85%92%E5%BA%97%23",
+          "title": "白小纯 青稚",
+          "url": "https://s.weibo.com/weibo?q=%E7%99%BD%E5%B0%8F%E7%BA%AF+%E9%9D%92%E7%A8%9A",
           "rank": 18
         },
         {
           "platform_id": "weibo",
           "platform_name": "微博",
-          "title": "陌生男扔加冰可乐砸女子脸后逃跑",
-          "url": "https://s.weibo.com/weibo?q=%23%E9%99%8C%E7%94%9F%E7%94%B7%E6%89%94%E5%8A%A0%E5%86%B0%E5%8F%AF%E4%B9%90%E7%A0%B8%E5%A5%B3%E5%AD%90%E8%84%B8%E5%90%8E%E9%80%83%E8%B7%91%23",
+          "title": "马斯克又带着小儿子来中国了",
+          "url": "https://s.weibo.com/weibo?q=%23%E9%A9%AC%E6%96%AF%E5%85%8B%E5%8F%88%E5%B8%A6%E7%9D%80%E5%B0%8F%E5%84%BF%E5%AD%90%E6%9D%A5%E4%B8%AD%E5%9B%BD%E4%BA%86%23",
           "rank": 19
         },
         {
           "platform_id": "weibo",
           "platform_name": "微博",
-          "title": "峨眉山来了群女弟子开录热度",
-          "url": "https://s.weibo.com/weibo?q=%23%E5%B3%A8%E7%9C%89%E5%B1%B1%E6%9D%A5%E4%BA%86%E7%BE%A4%E5%A5%B3%E5%BC%9F%E5%AD%90%E5%BC%80%E5%BD%95%E7%83%AD%E5%BA%A6%23",
+          "title": "APEC重要讲话",
+          "url": "https://s.weibo.com/weibo?q=%23APEC%E9%87%8D%E8%A6%81%E8%AE%B2%E8%AF%9D%23",
           "rank": 20
         },
         {
           "platform_id": "weibo",
           "platform_name": "微博",
-          "title": "全民进入老实过日子时代",
-          "url": "https://s.weibo.com/weibo?q=%E5%85%A8%E6%B0%91%E8%BF%9B%E5%85%A5%E8%80%81%E5%AE%9E%E8%BF%87%E6%97%A5%E5%AD%90%E6%97%B6%E4%BB%A3",
+          "title": "特朗普一脸笑容落座开启热聊",
+          "url": "https://s.weibo.com/weibo?q=%23%E7%89%B9%E6%9C%97%E6%99%AE%E4%B8%80%E8%84%B8%E7%AC%91%E5%AE%B9%E8%90%BD%E5%BA%A7%E5%BC%80%E5%90%AF%E7%83%AD%E8%81%8A%23",
           "rank": 21
         },
         {
           "platform_id": "weibo",
           "platform_name": "微博",
-          "title": "内娱第一个把孩子说成是子宫肌瘤的",
-          "url": "https://s.weibo.com/weibo?q=%23%E5%86%85%E5%A8%B1%E7%AC%AC%E4%B8%80%E4%B8%AA%E6%8A%8A%E5%AD%A9%E5%AD%90%E8%AF%B4%E6%88%90%E6%98%AF%E5%AD%90%E5%AE%AB%E8%82%8C%E7%98%A4%E7%9A%84%23",
+          "title": "王子璇说只有文吉儿换了软卧包间",
+          "url": "https://s.weibo.com/weibo?q=%23%E7%8E%8B%E5%AD%90%E7%92%87%E8%AF%B4%E5%8F%AA%E6%9C%89%E6%96%87%E5%90%89%E5%84%BF%E6%8D%A2%E4%BA%86%E8%BD%AF%E5%8D%A7%E5%8C%85%E9%97%B4%23",
           "rank": 22
         },
         {
           "platform_id": "weibo",
           "platform_name": "微博",
-          "title": "高市早苗抵达深圳",
-          "url": "https://s.weibo.com/weibo?q=%23%E9%AB%98%E5%B8%82%E6%97%A9%E8%8B%97%E6%8A%B5%E8%BE%BE%E6%B7%B1%E5%9C%B3%23",
+          "title": "青稚 先救根儿",
+          "url": "https://s.weibo.com/weibo?q=%E9%9D%92%E7%A8%9A+%E5%85%88%E6%95%91%E6%A0%B9%E5%84%BF",
           "rank": 23
         },
         {
           "platform_id": "weibo",
           "platform_name": "微博",
-          "title": "deepseek算力",
-          "url": "https://s.weibo.com/weibo?q=%23deepseek%E7%AE%97%E5%8A%9B%23",
+          "title": "杨超越董思成亲了4小时的吻戏",
+          "url": "https://s.weibo.com/weibo?q=%23%E6%9D%A8%E8%B6%85%E8%B6%8A%E8%91%A3%E6%80%9D%E6%88%90%E4%BA%B2%E4%BA%864%E5%B0%8F%E6%97%B6%E7%9A%84%E5%90%BB%E6%88%8F%23",
           "rank": 24
         },
         {
           "platform_id": "weibo",
           "platform_name": "微博",
-          "title": "豆包被十三个鸡蛋难倒",
-          "url": "https://s.weibo.com/weibo?q=%E8%B1%86%E5%8C%85%E8%A2%AB%E5%8D%81%E4%B8%89%E4%B8%AA%E9%B8%A1%E8%9B%8B%E9%9A%BE%E5%80%92",
+          "title": "APEC第33次领导人非正式会议举行",
+          "url": "https://s.weibo.com/weibo?q=%23APEC%E7%AC%AC33%E6%AC%A1%E9%A2%86%E5%AF%BC%E4%BA%BA%E9%9D%9E%E6%AD%A3%E5%BC%8F%E4%BC%9A%E8%AE%AE%E4%B8%BE%E8%A1%8C%23",
           "rank": 25
         },
         {
           "platform_id": "weibo",
           "platform_name": "微博",
-          "title": "就说后会友期不更新会出大事吧",
-          "url": "https://s.weibo.com/weibo?q=%23%E5%B0%B1%E8%AF%B4%E5%90%8E%E4%BC%9A%E5%8F%8B%E6%9C%9F%E4%B8%8D%E6%9B%B4%E6%96%B0%E4%BC%9A%E5%87%BA%E5%A4%A7%E4%BA%8B%E5%90%A7%23",
+          "title": "球星公益行让温暖守护在身边",
+          "url": "https://s.weibo.com/weibo?q=%23%E7%90%83%E6%98%9F%E5%85%AC%E7%9B%8A%E8%A1%8C%E8%AE%A9%E6%B8%A9%E6%9A%96%E5%AE%88%E6%8A%A4%E5%9C%A8%E8%BA%AB%E8%BE%B9%23",
           "rank": 26
         },
         {
           "platform_id": "weibo",
           "platform_name": "微博",
-          "title": "GTA6",
-          "url": "https://s.weibo.com/weibo?q=GTA6",
+          "title": "特朗普和普京握手并拍了拍肩膀",
+          "url": "https://s.weibo.com/weibo?q=%23%E7%89%B9%E6%9C%97%E6%99%AE%E5%92%8C%E6%99%AE%E4%BA%AC%E6%8F%A1%E6%89%8B%E5%B9%B6%E6%8B%8D%E4%BA%86%E6%8B%8D%E8%82%A9%E8%86%80%23",
           "rank": 27
         },
         {
           "platform_id": "weibo",
           "platform_name": "微博",
-          "title": "豆包画不对13个鸡蛋",
-          "url": "https://s.weibo.com/weibo?q=%E8%B1%86%E5%8C%85%E7%94%BB%E4%B8%8D%E5%AF%B913%E4%B8%AA%E9%B8%A1%E8%9B%8B",
+          "title": "液氧乐队主唱张宇去世",
+          "url": "https://s.weibo.com/weibo?q=%23%E6%B6%B2%E6%B0%A7%E4%B9%90%E9%98%9F%E4%B8%BB%E5%94%B1%E5%BC%A0%E5%AE%87%E5%8E%BB%E4%B8%96%23",
           "rank": 28
         },
         {
           "platform_id": "weibo",
           "platform_name": "微博",
-          "title": "马斯克现身特朗普随行大巴车",
-          "url": "https://s.weibo.com/weibo?q=%23%E9%A9%AC%E6%96%AF%E5%85%8B%E7%8E%B0%E8%BA%AB%E7%89%B9%E6%9C%97%E6%99%AE%E9%9A%8F%E8%A1%8C%E5%A4%A7%E5%B7%B4%E8%BD%A6%23",
+          "title": "TTG竞燃之夜出发图",
+          "url": "https://s.weibo.com/weibo?q=%23TTG%E7%AB%9E%E7%87%83%E4%B9%8B%E5%A4%9C%E5%87%BA%E5%8F%91%E5%9B%BE%23",
           "rank": 29
         },
         {
           "platform_id": "weibo",
           "platform_name": "微博",
-          "title": "许飞看向曾沛慈的眼神",
-          "url": "https://s.weibo.com/weibo?q=%23%E8%AE%B8%E9%A3%9E%E7%9C%8B%E5%90%91%E6%9B%BE%E6%B2%9B%E6%85%88%E7%9A%84%E7%9C%BC%E7%A5%9E%23",
+          "title": "智能门锁自己开门给外卖小哥吓懵了",
+          "url": "https://s.weibo.com/weibo?q=%23%E6%99%BA%E8%83%BD%E9%97%A8%E9%94%81%E8%87%AA%E5%B7%B1%E5%BC%80%E9%97%A8%E7%BB%99%E5%A4%96%E5%8D%96%E5%B0%8F%E5%93%A5%E5%90%93%E6%87%B5%E4%BA%86%23",
           "rank": 30
         },
         {
           "platform_id": "zhihu",
           "platform_name": "知乎",
-          "title": "美国总统特朗普抵达深圳，出席 APEC 深圳峰会，本次迎接仪式有哪些亮点？还有哪些信息值得关注？",
-          "url": "https://www.zhihu.com/question/2106401577850200853",
+          "title": "为什么大家这么关注 APEC 会议？",
+          "url": "https://www.zhihu.com/question/2105936986515171184",
           "rank": 1
         },
         {
           "platform_id": "zhihu",
           "platform_name": "知乎",
-          "title": "本届深圳 APEC 会议的意义是什么？",
-          "url": "https://www.zhihu.com/question/2103975417191339159",
+          "title": "网友让豆包生成一张「盒子里有 13 个鸡蛋」的图片，豆包连续十几次纠错仍未能数清，这是为什么？",
+          "url": "https://www.zhihu.com/question/2106466938230501933",
           "rank": 2
+        },
+        {
+          "platform_id": "zhihu",
+          "platform_name": "知乎",
+          "title": "为什么绿皮火车硬座长久以来都是和别人面对面的布局？没有考虑过社恐人士的心情吗？",
+          "url": "https://www.zhihu.com/question/2105548043621773338",
+          "rank": 3
+        },
+        {
+          "platform_id": "zhihu",
+          "platform_name": "知乎",
+          "title": "WorkBuddy 日活用户超 1000 万，它是怎么做到的？AI Agent 已经成为工作刚需了吗？",
+          "url": "https://www.zhihu.com/question/2106443459233932915",
+          "rank": 4
+        },
+        {
+          "platform_id": "zhihu",
+          "platform_name": "知乎",
+          "title": "离婚前男方将游戏账号以 88 万卖给朋友，女方要求分割，法院判决 2:1 比例分，如何从法律角度解读？",
+          "url": "https://www.zhihu.com/question/2106406907846182253",
+          "rank": 5
+        },
+        {
+          "platform_id": "zhihu",
+          "platform_name": "知乎",
+          "title": "上海 10 月社零同比跌 4.5%，其中汽车类跌 39.4%，还有哪些细节值得关注？",
+          "url": "https://www.zhihu.com/question/2106344557927297862",
+          "rank": 6
+        },
+        {
+          "platform_id": "zhihu",
+          "platform_name": "知乎",
+          "title": "儿子拿笔在墙上乱画，儿子爸爸极力反对说要有规矩，姥姥说让孩子画是保护他的探索欲，谁说得对我该站谁？",
+          "url": "https://www.zhihu.com/question/2106047742212686624",
+          "rank": 7
         },
         {
           "platform_id": "zhihu",
           "platform_name": "知乎",
           "title": "中俄美三国元首历史上首次面对面会晤，有哪些意义？为何会选在这个时间点？",
           "url": "https://www.zhihu.com/question/2105702944855287688",
-          "rank": 3
-        },
-        {
-          "platform_id": "zhihu",
-          "platform_name": "知乎",
-          "title": "如何评价新版上海小学数学教材规定「平行四边形属于梯形」，但「长方形不是等腰梯形」？",
-          "url": "https://www.zhihu.com/question/2104876036001378522",
-          "rank": 4
-        },
-        {
-          "platform_id": "zhihu",
-          "platform_name": "知乎",
-          "title": "马斯克确认将前往中国，并缺席纽约 DealBook 峰会，他选择深圳 APEC 峰会节点赴华是出于什么考虑？",
-          "url": "https://www.zhihu.com/question/2106061681793176634",
-          "rank": 5
-        },
-        {
-          "platform_id": "zhihu",
-          "platform_name": "知乎",
-          "title": "为什么好多动物都长尾巴，而我们人类却不长尾巴，长尾巴多好呀，长尾巴没事做的时候就可以摇来摇去？",
-          "url": "https://www.zhihu.com/question/2080457352793408713",
-          "rank": 6
-        },
-        {
-          "platform_id": "zhihu",
-          "platform_name": "知乎",
-          "title": "CMF 报告显示，地方债三年间减少 11 万亿，如何看待这一阶段性成效？未来会如何化债？",
-          "url": "https://www.zhihu.com/question/2105980726180933878",
-          "rank": 7
-        },
-        {
-          "platform_id": "zhihu",
-          "platform_name": "知乎",
-          "title": "泽连斯基公布导弹打击克里米亚大桥致桥拱桥跨坍塌画面，此举将引发哪些连锁反应？",
-          "url": "https://www.zhihu.com/question/2106134560761292722",
           "rank": 8
         },
         {
           "platform_id": "zhihu",
           "platform_name": "知乎",
-          "title": "董明珠回应格力业绩下滑，称铜在涨价，宁可损失几十亿利润也不降低品质，空调用铜和用铝实际体验差距有多大？",
-          "url": "https://www.zhihu.com/question/2103780150286599535",
+          "title": "域、界、门、纲、目、科、属、种，生物学还有哪些是我们所不知道的么？",
+          "url": "https://www.zhihu.com/question/3538790894",
           "rank": 9
         },
         {
           "platform_id": "zhihu",
           "platform_name": "知乎",
-          "title": "胖东来模式为啥不能全国推广？",
-          "url": "https://www.zhihu.com/question/1916824548122298114",
+          "title": "国内科研环境真的不如国外吗?",
+          "url": "https://www.zhihu.com/zvideo/2103157758249931103",
           "rank": 10
         },
         {
           "platform_id": "zhihu",
           "platform_name": "知乎",
-          "title": "如何评价电视剧《谷雨》大结局？",
-          "url": "https://www.zhihu.com/question/2106096426447008603",
+          "title": "如何看待比亚迪王传福称「我赢你输」不可能长期发展，中国企业在海外绝不是「抢饭碗」？",
+          "url": "https://www.zhihu.com/question/2106321090909951453",
           "rank": 11
         },
         {
           "platform_id": "zhihu",
           "platform_name": "知乎",
-          "title": "王羽佳国家大剧院演出迟到 17 分钟，此前香港站缩减演出时长主办方退款，如何评价这种行为？这算耍大牌吗？",
-          "url": "https://www.zhihu.com/question/2106071380613769004",
+          "title": "男朋友一被领导说就离职，频繁裸辞后长期空窗，是我太计较吗？",
+          "url": "https://www.zhihu.com/question/2105339041600349938",
           "rank": 12
         },
         {
           "platform_id": "zhihu",
           "platform_name": "知乎",
-          "title": "每次只喝一点、从不喝醉，长期下来也会影响大脑吗？",
-          "url": "https://www.zhihu.com/question/2083346008789074958",
+          "title": "人在谷底的时候如何爬出来？",
+          "url": "https://www.zhihu.com/question/660927288",
           "rank": 13
         },
         {
           "platform_id": "zhihu",
           "platform_name": "知乎",
-          "title": "鸣潮 4.0 版本预热《鸣潮：永明的烬焰》年度篇章发布，新联邦地区多位卫星角色如何评价？",
-          "url": "https://www.zhihu.com/question/2106352809801269878",
+          "title": "职场中，能力强和靠谱，哪一个更能决定一个人的长期发展？",
+          "url": "https://www.zhihu.com/question/2086442830940185768",
           "rank": 14
         },
         {
           "platform_id": "zhihu",
           "platform_name": "知乎",
-          "title": "如何看待雷军 APEC 发言紧张，网友称「好像略微有点社恐」？",
-          "url": "https://www.zhihu.com/question/2106133971863954449",
+          "title": "影之刃零能拿下 2026 TGA大奖吗？",
+          "url": "https://www.zhihu.com/question/2103876591621248074",
           "rank": 15
         },
         {
@@ -1763,29 +1763,29 @@
         {
           "platform_id": "zhihu",
           "platform_name": "知乎",
-          "title": "如何评价游戏《侠盗猎车手 VI》（GTA6），它到底好不好玩？",
-          "url": "https://www.zhihu.com/question/2106459198645191397",
+          "title": "泽连斯基公布导弹打击克里米亚大桥致桥拱桥跨坍塌画面，此举将引发哪些连锁反应？",
+          "url": "https://www.zhihu.com/question/2106134560761292722",
           "rank": 17
         },
         {
           "platform_id": "zhihu",
           "platform_name": "知乎",
-          "title": "现货黄金跌破 3800 美元关口，现在适合抄底黄金吗？黄金的长期配置逻辑还成立吗？",
-          "url": "https://www.zhihu.com/question/2106345289204372977",
+          "title": "悄悄问问有娃的家庭，晚上 20:00 时，你在做什么，看看大家是不是一样？",
+          "url": "https://www.zhihu.com/question/2102047331881437170",
           "rank": 18
         },
         {
           "platform_id": "zhihu",
           "platform_name": "知乎",
-          "title": "为什么草莓和车厘子全国各地都很贵，不能大量种植吗？",
-          "url": "https://www.zhihu.com/question/577898749",
+          "title": "马斯克抵达深圳，缺席纽约 DealBook 峰会，他选择深圳 APEC 峰会节点赴华是出于什么考虑？",
+          "url": "https://www.zhihu.com/question/2106061681793176634",
           "rank": 19
         },
         {
           "platform_id": "zhihu",
           "platform_name": "知乎",
-          "title": "业内人士称不建议买 500 元以下羽绒服，基本不合格，500 元真是羽绒服的分水岭吗？选购时应留心哪些标准？",
-          "url": "https://www.zhihu.com/question/2105307883109929432",
+          "title": "工信部同意北京市等 8 个省（市）开展 6G 创新发展部省协同试点工作，如何看待这次试点布局？",
+          "url": "https://www.zhihu.com/question/2106044813778994147",
           "rank": 20
         }
       ]
